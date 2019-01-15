@@ -1,151 +1,152 @@
-0,BER-L-13231-04,0,1500000.0,result: $1.5 million plaintiff verdict
-1,MID-L-4430-05,1,3000000.0,result: $3 million plaintiff verdict
-2,04-00884,0,1038.3,result: $1 038.30 plaintiff verdict ($1 000 for plaintiff  $38.30 in prejudgment interest)
-3,SAL-L-43-04,0,600000.0,result: $600 000 settlement ($500 000 from new jersey transit and $100 000 from allstate insurance)
-4,05-01749,1,75000.0,result: $75 000 settlement
-5,05-03951,1,-1.0,result: settlement
-6,BUR-L-748-04,0,224627.84,result: $224 627.84 plaintiffs verdict
-7,UNN-L-3463-03,1,48107.05,result: $48 107.05 plaintiff verdict ($44 000 from jury and $4 107.05 in prejudgment interest)
-8,MID-L-005468-04,0,98000.0,result: $98 000 settlement
-9,05-02682,1,-1.0,result: settlement
-10,04-06009,1,-1.0,result: settlement
-11,03-3979,1,-1.0,result: defense verdict
-12,CAM-L-2026-04,0,410000.0,result: $410 000 settlement
-13,04-05754,1,-1.0,result: settlement
-14,04-04541,1,-1.0,result: settlement
-15,05-00540,0,-1.0,result: settlement
-16,ESX-L-8362-04,0,600000.0,result: $600 000 settlement
-17,06-02178,1,-1.0,result: settlement
-18,04-06047,1,30000.0,result: $30 000 settlement
-19,CAM-L-522210,0,5000000.0,result: $5 million plaintiff verdict
-20,05-00616,1,-1.0,result: settlement
-21,05-01254,0,-1.0,result: settlement
-22,05-04261,1,-1.0,result: settlement
-23,04-02146,1,97500.0,result: $97 500 settlement ($47 500 from lafferty  $50 000 from north)
-24,MRS-L-658-05,0,3500000.0,result: $3.5 million settlement ($2.5 million in cash  $1 million toward 20-year annuity)
-25,02-03566,1,105000.0,result: $105 000 settlement
-26,05-00331,0,153500.0,result: $153 500 settlement ($95 000 from overnite transportation to diana fisher for pain  suffering and damages; $25 000 from fisher to overnite for damages; $8 500 from overnight to sentry insurance co.  as subrogee of malouf buick for property damage; $25 000 from overnite to motors insurance co. as subrogee of malouf buick for property damage)
-27,04-00488,0,-1.0,result: settlement
-28,05-04211,1,77000.0,result: $77 000 settlement
-29,04-04432,1,400000.0,result: $400 000 settlement ($125 000 to the estate of robert vannostrand  $125 000 to "casey" lynn caswell ford  $75 000 to sarah austin ford and $75 000 to maria ferran)
-30,05-03231,1,-1.0,result: settlement
-31,MON-L-647-04,1,550000.0,result: $550 000 settlement
-32,BER-L-14309-04,0,490000.0,result: $490 000 settlement
-33,06-00989,1,107000.0,result: $107 000 settlement
-34,CUM-L-387-04,-1,-1.0,result: defense verdict
-35,ATL-L-2787-03,0,1125000.0,result: $1.125 million settlement
-36,L-3558-04,1,1500000.0,result: $1.5 million settlement
-37,05-00671,1,-1.0,result: settlement
-38,MON-L-2251-3,0,50000.0,result: $50 000 verdict ($40 000 after comparative negligence reduction)
-39,03-02948,1,1000000.0,result: $1 million plaintiff verdict
-40,MID-L-004535-03,1,-1.0,result: defense verdict
-41,L-682-06,0,325000.0,result: $325 000 settlement
-42,CAM-L-1839-03,1,2750000.0,result: $2.75 million plaintiff verdict
-43,MRS-L-2145-04; MRS-L-616-05; MRS-L-782-05,1,1200000.0,result: $1.2 million settlement ($437 500 to hana marsik  $437 500 to helena j. kukla and $325 000 to the estate of emily paroulek)
-44,L 000906 90,0,1294117.0,result: $1 294 117 plaintiff verdict ($40 178 in compensatory damages and $3 939 for the net funeral and burial expenses under the wrongful death act  punitive damages of $1 250 000 under the survivor s act)
-45,BUR-L-002853-03,0,23925.0,result: $23 925 plaintiff's verdict
-46,03-04624,1,1200.0,result: $1 200 settlement
-47,L 005316 95,0,512500.0,result: $512 500 plaintiff verdict (against john v. kelly)
-48,05-03021,1,-1.0,result: confidential settlement
-49,04-01261,0,-1.0,result: confidential settlement
-50,BUR-L-838-05,1,85000.0,result: $85 000 verdict ($55 000 to reena cheung  $30 000 to hong cheung)
-51,BER-L-1048-05,1,120000.0,result: $120 000 verdict
-52,06-02775,0,66500.0,result: $66 500 arbitration award ($65 000 to jacqueline e. miller  $1 500 to timothy miller)
-53,06-00065,1,-1.0,result: settlement
-54,OCE-L-001252-04,0,-1.0,result: defense verdict
-55,03-02918,0,-1.0,result: split verdict (plaintiffs found liable; defendants found negligent)
-56,05-01351,1,1000.0,result: $1 000 settlement
-57,MID-L-734-04,1,100000.0,result: $100 000 plaintiff verdict (jeffrey howard sr.  $40 000 in damages; jeffrey howard jr.  $60 000 in damages)
-58,SOM-L-1094-04,0,725000.0,result: $725 000 plaintiff verdict ($325 000 in future wages  $205 000 for noneconomic damages and $195 000 in back wages)
-59,L 007120 93,0,25000.0,result: $25 000 plaintiff verdict (against unsatisfied claim and judgment fund board)
-60,SSX-L-723-04,0,1330513.0,result: $1 330 513 plaintiff verdict ($1.25 million jury award  $80 513 prejudgment interest)
-61,04-01283,0,-1.0,result: settlement
-62,05-01364,1,35000.0,result: $35 000 settlement
-63,04-00237,0,25000.0,result: $25 000 bench verdict
-64,L-6458-95,0,6930000.0,result: $6.93 million plaintiff verdict for survivors' financial loss  including past and future income  assistance  care   training  guidance  companionship and counsel
-65,L-3150-03,0,2100000.0,result: $2.1 million settlement
-66,BUR-L-003587-03,1,665000.0,result: $665 000 settlement ($600 000 from susan gravenstine's insurance  $50 000 from oksana shapowlenko's insurance and $15 000 from winisius silva and carlius alves' insurance company)
-67,05-04720,1,-1.0,result: settlement
-68,03-05960,1,-1.0,result: settlement
-69,BUR-L-2745-04,1,24800.0,result: $24 800 plaintiff verdict
-70,MID-L-2605-05,1,650000.0,result: $650 000 settlement
-71,97-3365,0,10000000.0,result: $10 million
-72,04-01985,1,70000.0,result: $70 000 arbitration award ($47 500 to penn and $22 500 to mason)
-73,05-04744,1,-1.0,result: settlement
-74,BUR-L-000500-05,0,395768.84,result: $395 768.84 settlement ($295 768.84 in 2004 and $100 000 in 2006)
-75,05-04559,-1,-1.0,result: settlement
-76,04-05349,1,-1.0,result: settlement
-77,04-03726,0,20000.0,result: $20 000 settlement
-78,MID-L-002032-04,1,-1.0,result: defense verdict
-79,05-03586,0,-1.0,result: defense verdict
-80,04-04250,0,-1.0,result: settlement
-81,04-03422,1,-1.0,result: confidential settlement
-82,CUM-L-000034-06,1,71226.0,result: $71 226 plaintiff verdict
-83,HUD-L-6537-04,0,375000.0,result: $375 000 settlement
-84,06-01519,1,-1.0,result: settlement
-85,03-01959,1,-1.0,result: defense verdict
-86,05-04400,0,-1.0,result: settlement
-87,04-02097,0,-1.0,result: settlement
-88,L 010370 91,1,-1.0,result: defense verdict
-89,05-04381,1,-1.0,result: settlement
-90,BER-L-010419-04,1,80000.0,result: $80 000 plaintiff verdict
-91,BER-L-003787-05,1,-1.0,result: defense verdict
-92,04-03120,-1,1000.0,result: $1 000 settlement ($503.29 to margaret goodher  $307.76 to the community hospital of lancaster  $41.25 to community radiology associates  $68 to marlton pediatrics  $59.90 to haddonfield family chiropractic  $19.80 to sonnheim counseling)
-93,ESX-L-8260-05,0,465000.0,result: $465 000 settlement
-94,BUR-L-429-04,0,150000.0,result: $150 000 verdict
-95,03-04452,0,175000.0,result: $175 000 settlement
-96,BER-L-6797-90,1,150000.0,result: $150 000 settlement (payable by harley davidson motor co.)
-97,MID-L-141-04,1,150000.0,result: $150 000 plaintiff verdict
-98,BER-L-14465-04,1,-1.0,result: defense verdict
-99,04-03956,0,-1.0,result: settlement
-100,06-02234,1,30000.0,result: $30 000 arbitration award ($15 000 to michel mainville and $15 000 to louise hamlin-mainville)
-101,CAM-L-7938-05,0,7600000.0,result: $7.6 million plaintiff verdict
-102,HUD-L-3464-03,1,2500.0,result: split verdict  both parties found negligent; plaintiff awarded $2 500 damages
-103,06-00155,1,-1.0,result: settlement
-104,BER-L-1399-05,1,315000.0,result: $315 000 settlement
-105,BER-L-5704-05,1,350000.0,result: $350 000 settlement
-106,MER-L-1955-05,-1,1539095.18,result: $1 539 095.18 judgment
-107,05-01431,1,-1.0,result: settlement
-108,03-03930,0,-1.0,result: defense verdict
-109,ESX-L-2337-05,0,500000.0,result: $500 000 settlement
-110,04-06101,0,-1.0,result: settlement
-111,MID-L-8762-04,1,11250000.0,result: $11.25 million jury verdict ($8 million to paul dolan for pain and suffering  $150 000 for hospital expenses and $1.1 million for lost wages; $2 million to kathy dolan for lost services)
-112,MON-L-5046-3,1,100000.0,result: $100 000 plaintiff verdict
-113,HNT-L-515--04,0,1475000.0,result: $1.475 million settlement
-114,ATL-L-3885-04,1,250000.0,result: $250 000 plaintiff verdict (capped at $100 000)
-115,BER-L-007449-03,1,-1.0,result: defense verdict
-116,MID-L-3009-04,1,4250000.0,result: $4.25 million settlement ($1 million for wrongful death  $3.25 million for family for survival action)
-117,MID-L-10179-02,0,10600000.0,result: $10.6 million plaintiff verdict
-118,06-01366,0,-1.0,result: settlement
-119,06-02702,0,-1.0,result: settlement
-120,OCN-L-3430-04,1,502685.0,result: $502 685 jury verdict ($352 685 for household services and past and future wages; $150 000 for pain and suffering)
-121,MID-L-677-02,1,31250000.0,result: $31.25 million settlement ($27.25 million from aaa midatlantic  $2 million from e&d auto/gerard m. taber  $2 million from campana systems)
-122,BER-L-14531-04,1,525000.0,result: $525 000 settlement
-123,CAM-L-88703,0,300000.0,result: $300 000 settlement
-124,BUR-L-1934-05,1,1000000.0,result: $1 million settlement
-125,BER-L-2275-06,1,1000000.0,result: $1 million settlement
-126,05-05380,0,-1.0,result: settlement
-127,BER-L-013245,1,10000.0,result: $10 000 plaintiff's verdict
-128,MER-L-0240-01,0,445000.0,result: $445 000 settlement
-129,ATL-L-001199-04,0,64800.0,result: $64 800 plaintiff verdict
-130,05-00920,0,-1.0,result: settlement
-131,04-06108,1,-1.0,result: settlement
-132,ESX-L-298-03,0,2000000.0,result: $2 million plaintiff verdict
-133,BER-L-8664-04,0,900000.0,result: $900 000 settlement ($750 000 cash up front  with $150 000 going into a trust with the plaintiff receiving monthly payments of $807.86 per month beginning feb. 15  2010)
-134,UNN-L-3206-05,1,250000.0,result: $250 000 settlement
-135,L-003047-04,0,95000.0,result: $95 000 settlement
-136,SOM-L-1978-98,1,2500000.0,result: $2.5 million settlement
-137,04-04044,0,40000.0,result: $40 000 settlement
-138,PAS-L-112-06,0,500000.0,result: $500 000 settlement
-139,ATL-1407-04,1,5820304.0,result: $5 820 304 plaintiff verdict ($3 million for pain and suffering  $425 000 for the length of his life that he will be unable to work  $95 304 for past medical expenses  $2.3 million for future medical expenses)
-140,BUR-L-2978-04,1,-1.0,result: defense verdict
-141,ESX-L-3896-02,0,240000.0,result: $240 000 plaintiff verdict
-142,BER-L-14399-04,0,650000.0,result: $650 000 settlement ($400 000 from carmela tripodi  $250 000 from robin tracey)
-143,WAR-L-602-02,0,-1.0,result: defense verdict
-144,06-0076,0,30000.0,result: $30 000 settlement
-145,MER-L-264-05,1,370000.0,result: $370 000 plaintiff verdict
-146,PAS-L-004197-04,1,17500.0,result: $17 500 plaintiff verdict
-147,04-03167,1,-1.0,result: settlement
-148,04-04974,0,-1.0,result: settlement
-149,L 001646 94,1,-1.0,result: defense verdict
-150,BUR-L-3561-03,1,850000.0,result: $850 000 settlement
+case_id,gender,money
+BER-L-13231-04,0,1500000.0
+MID-L-4430-05,1,3000000.0
+04-00884,0,1038.3
+SAL-L-43-04,0,600000.0
+05-01749,1,75000.0
+05-03951,1,-1.0
+BUR-L-748-04,0,224627.84
+UNN-L-3463-03,1,48107.05
+MID-L-005468-04,0,98000.0
+05-02682,1,-1.0
+04-06009,1,-1.0
+03-3979,1,-1.0
+CAM-L-2026-04,0,410000.0
+04-05754,1,-1.0
+04-04541,1,-1.0
+05-00540,0,-1.0
+ESX-L-8362-04,0,600000.0
+06-02178,1,-1.0
+04-06047,1,30000.0
+CAM-L-522210,0,5000000.0
+05-00616,1,-1.0
+05-01254,0,-1.0
+05-04261,1,-1.0
+04-02146,1,97500.0
+MRS-L-658-05,0,3500000.0
+02-03566,1,105000.0
+05-00331,0,153500.0
+04-00488,0,-1.0
+05-04211,1,77000.0
+04-04432,1,400000.0
+05-03231,1,-1.0
+MON-L-647-04,1,550000.0
+BER-L-14309-04,0,490000.0
+06-00989,1,107000.0
+CUM-L-387-04,-1,-1.0
+ATL-L-2787-03,0,1125000.0
+L-3558-04,1,1500000.0
+05-00671,1,-1.0
+MON-L-2251-3,0,50000.0
+03-02948,1,1000000.0
+MID-L-004535-03,1,-1.0
+L-682-06,0,325000.0
+CAM-L-1839-03,1,2750000.0
+MRS-L-2145-04; MRS-L-616-05; MRS-L-782-05,1,1200000.0
+L 000906 90,0,1294117.0
+BUR-L-002853-03,0,23925.0
+03-04624,1,1200.0
+L 005316 95,0,512500.0
+05-03021,1,-1.0
+04-01261,0,-1.0
+BUR-L-838-05,1,85000.0
+BER-L-1048-05,1,120000.0
+06-02775,0,66500.0
+06-00065,1,-1.0
+OCE-L-001252-04,0,-1.0
+03-02918,0,-1.0
+05-01351,1,1000.0
+MID-L-734-04,1,100000.0
+SOM-L-1094-04,0,725000.0
+L 007120 93,0,25000.0
+SSX-L-723-04,0,1330513.0
+04-01283,0,-1.0
+05-01364,1,35000.0
+04-00237,0,25000.0
+L-6458-95,1,6930000.0
+L-3150-03,1,2100000.0
+BUR-L-003587-03,1,665000.0
+05-04720,1,-1.0
+03-05960,1,-1.0
+BUR-L-2745-04,1,24800.0
+MID-L-2605-05,1,650000.0
+97-3365,0,10000000.0
+04-01985,1,70000.0
+05-04744,1,-1.0
+BUR-L-000500-05,0,395768.84
+05-04559,-1,-1.0
+04-05349,1,-1.0
+04-03726,0,20000.0
+MID-L-002032-04,1,-1.0
+05-03586,0,-1.0
+04-04250,0,-1.0
+04-03422,1,-1.0
+CUM-L-000034-06,1,71226.0
+HUD-L-6537-04,0,375000.0
+06-01519,1,-1.0
+03-01959,1,-1.0
+05-04400,0,-1.0
+04-02097,0,-1.0
+L 010370 91,1,-1.0
+05-04381,1,-1.0
+BER-L-010419-04,1,80000.0
+BER-L-003787-05,1,-1.0
+04-03120,-1,1000.0
+ESX-L-8260-05,0,465000.0
+BUR-L-429-04,0,150000.0
+03-04452,0,175000.0
+BER-L-6797-90,1,150000.0
+MID-L-141-04,1,150000.0
+BER-L-14465-04,1,-1.0
+04-03956,0,-1.0
+06-02234,1,30000.0
+CAM-L-7938-05,0,7600000.0
+HUD-L-3464-03,1,2500.0
+06-00155,1,-1.0
+BER-L-1399-05,1,315000.0
+BER-L-5704-05,1,350000.0
+MER-L-1955-05,-1,1539095.18
+05-01431,1,-1.0
+03-03930,0,-1.0
+ESX-L-2337-05,0,500000.0
+04-06101,0,-1.0
+MID-L-8762-04,1,11250000.0
+MON-L-5046-3,1,100000.0
+HNT-L-515--04,0,1475000.0
+ATL-L-3885-04,1,250000.0
+BER-L-007449-03,1,-1.0
+MID-L-3009-04,1,4250000.0
+MID-L-10179-02,0,10600000.0
+06-01366,0,-1.0
+06-02702,0,-1.0
+OCN-L-3430-04,1,502685.0
+MID-L-677-02,1,31250000.0
+BER-L-14531-04,1,525000.0
+CAM-L-88703,0,300000.0
+BUR-L-1934-05,1,1000000.0
+BER-L-2275-06,1,1000000.0
+05-05380,0,-1.0
+BER-L-013245,1,10000.0
+MER-L-0240-01,0,445000.0
+ATL-L-001199-04,0,64800.0
+05-00920,0,-1.0
+04-06108,1,-1.0
+ESX-L-298-03,0,2000000.0
+BER-L-8664-04,0,900000.0
+UNN-L-3206-05,1,250000.0
+L-003047-04,0,95000.0
+SOM-L-1978-98,1,2500000.0
+04-04044,0,40000.0
+PAS-L-112-06,0,500000.0
+ATL-1407-04,1,5820304.0
+BUR-L-2978-04,1,-1.0
+ESX-L-3896-02,0,240000.0
+BER-L-14399-04,0,650000.0
+WAR-L-602-02,0,-1.0
+06-0076,0,30000.0
+MER-L-264-05,1,370000.0
+PAS-L-004197-04,1,17500.0
+04-03167,1,-1.0
+04-04974,0,-1.0
+L 001646 94,1,-1.0
+BUR-L-3561-03,1,850000.0
