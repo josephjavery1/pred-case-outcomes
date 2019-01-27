@@ -8,8 +8,8 @@ if len(sys.argv) != 3:
 	print('Only 2 input arguments. ')
 	exit(1)
 
-# input_file= 'WIWpages_2.txt'
-# output_file= 'cleaned_3.txt'
+# input_file= 'WIWpages_uncleaned.txt'
+# output_file= 'WIWpages_cleaned.txt'
 
 # Keywords
 keyword_list= ['AMOUNT:', 'CASE:', 'CASE NUMBER:', 'JUDGE:', 'EXPERTS:', 'ATTORNEYS:', 'DECEDENT:', 'EVENT:', 
