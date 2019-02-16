@@ -5258,7 +5258,7 @@ ATTORNEYS: Michael A. Worel, Charles H. Thronson, Richard E. Mazrik, Parsons, Be
 INJURED PARTY: 59 year old male 
 EVENT: The plaintiff alleged that the defendant was talking on a cellphone when he collided at high speed into the rear of the plaintiff's pickup 
 SPECIFIC INJURY: Permanent mild traumatic brain injury; extensive facial injuries 
-PERTINENT INFORMATION: The verdict included medical expenses of $12; 904.23, lost earnings of $1,080,000, general damages of $250,000 and loss of consortium of $250,000. Punitive damages were not awarded 
+PERTINENT INFORMATION: The verdict included medical expenses of $12904.23, lost earnings of $1,080,000, general damages of $250,000 and loss of consortium of $250,000. Punitive damages were not awarded 
 ----------
 AMOUNT: $6,817,416 (UT) 
 CASE: Sarah Campbell, individually and as guardian for and in behalt Cameron Campbell v. Stacey Adams-Volden, Rocky Mountain Verdicts Settlements, Vol. 25, Issue 6 (June 2012) 
@@ -5473,7 +5473,7 @@ ATTORNEYS: Martin Wolf of Ginsberg & Wolf, PC, New York, NY for plaintiff; name 
 EVENT: As the plaintiff mother was wheeling her daughter across the road she was struck by the defendant's van. The carriage was dragged approxim ten to 15 feet by the van SPECIFIC INJURIES: Infant--First degree traumatic burns to the upper cheek and ankle; Leg med Scarring 
 ----------
 AMOUNT: $925,000 (Morris Co., NJ) 
-CASE: Kolodzieg v. TEC Installations, et al., 2012 NJ Jury Verdicts Review LEXIS: 205 (July 2;-2012) ..!: : 
+CASE: Kolodzieg v. TEC Installations, et al., 2012 NJ Jury Verdicts Review LEXIS: 205 (July 2, 2012) ..!: : 
 CASE NUMBER: MRS-L:2928-10 
 JUDGE: Not published 
 EXPERTS: Not published...... . . . . 
@@ -5770,7 +5770,7 @@ EVENT: The plaintiff fell backwards onto a sauna burner in the dete sauna when t
 SPECIFIC INJURY: Back injury, second degree burns to back, should 
 PERTINENT INFORMATION: The award included medical exp $ 6.03 Inadequate . ... 
 ----------
-AMOUNT: $3,680,000:(Delaware Co., IN) 
+AMOUNT: $3,680,000 (Delaware Co., IN) 
 CASE: Gray v. Jarden Corporation, et al.; 2015 IN Jury Verdicts Rptr. LEXIS 1 (March 8, 2014). P. : i . . . 
 CASE NUMBER: 18C02-0701-CT3 
 JUDGE: Dowling 
@@ -7578,7 +7578,7 @@ EVENT: The plaintiff's vehicle was rear ended by the defendant's vehicle
 SPECIFIC INJURY: Detached retina; Blindness in one eye 
 PERTINENT INFORMATION: The parties settled prior to trial 
 ----------
-AMOUNT: $375,000.-( Multnomah Co., OR) 
+AMOUNT: $375,000 ( Multnomah Co., OR) 
 CASE: Krivolenkov v. Dennis and City of Portland, 2015 Ore. Jury Verdicts & Sett. LEXIS 257 (December 2015) 
 CASE NUMBER: 14CV15650 
 JUDGE: Not published . . . 
@@ -7847,7 +7847,7 @@ EVENT: The plaintiff, a recent high school graduate, went to a “field party”
 SPECIFIC INJURY: Back injury with four thoracic spine fractures; Left arm injury; Decreased vision in the right eye; Brain and intra-cranial injuries; Orgams brain syndrome; Fractured skull; Punctured and collapsed lung; Cardiac injury. Torn aortal fracture of eleven ribs 
 PERTINENT INFORMATION: The award included $50,000 in punitive 
 ----------
-AMOUNT: $2,000,000!(Lehigh Co., PA) . 
+AMOUNT: $2,000,000 (Lehigh Co., PA) . 
 CASE: Dias v. Yen, 2012 PA Jury Verdicts Review LEXIS 81 (May 7, 2012) 
 CASE NUMBER: 2011-C-0290 
 JUDGE: Michele A. Varricchio 
@@ -8049,7 +8049,7 @@ EXPERTS: Not published i
 ATTORNEYS: Timothy J. Fonseca of Corradino & Papa, LLC, Clifton, NJ. for . de plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 76 year old male 
 ----------
-AMOUNT: $1,850,4 86 (Feb. 23, 2012) 
+AMOUNT: $1,850,486 (Feb. 23, 2012) 
 CASE NUMBER: PAS-L-001992-10 
 JUDGE: Not published 
 EXPERTS: Not published 
@@ -10087,7 +10087,7 @@ ATTORNEYS: Andrew C. Meyer, Jr. and William J. Thompson of Lubin & me of the def
 INJURED PARTY: Male d that the defendant pathologist was negligent in VENT: The plaintiff alleged that the defendant patholo mixing up biopsy slides and incorrectly advising that the plaintiff had prostate cancer and removing the prostate 
 SPECIFIC INJURY: Removal of prostate; erectile problems and urinary leakage 
 ----------
-AMOUNT: $2;100,000 (Suffolk Co., NY) : .:. . : i 
+AMOUNT: $2,100,000 (Suffolk Co., NY) : .:. . : i 
 CASE: Hernandez v. Lamar et al., 2016 NY Jury Verdicts Review LEXIS 7 (January 2016) 
 CASE NUMBER: 16553/11 
 JUDGE: Paul Baisley, Jr. 
@@ -12265,7 +12265,7 @@ EVENT: A Transit Authority of River City (TARC) bus struck the plaintiff as he w
 SPECIFIC INJURY: Traumatic brain injury; skull fracture; rib fracture; broken 
 PERTINENT INFORMATION: The plaintiff claimed medical expenses of $292,217 plus $250,000 more for future care. His lost wages were $8,856 
 ----------
-AMOUNT: $2,376,766-(Nelson Co., KY) 
+AMOUNT: $2,376,766 (Nelson Co., KY) 
 CASE: Nalley y. Auslander Properties, 2013 KY Trial Ct. Rev. LEXIS 136 (September 20, 3013) 
 CASE NUMBER: 10-688 
 JUDGE: Seay 
@@ -14370,7 +14370,7 @@ INJURED PARTY: Adult male EVENT. The plaintiffs alleged that the defendant prope
 SPECIFIC INJURY: Facial fractures; Dental injuries 
 PERTINENT INFORMATION: The parties settled for $1,200,000 and the court approved the settlement : 
 ----------
-AMOUNT: $125,000'(U.S. Dist. Ct.-SD FL) 
+AMOUNT: $125,000 (U.S. Dist. Ct.-SD FL) 
 CASE: Matthew Lawson v. 'City of Davie, et al., 2012 FL Jury Verdicts Review LEXIS 388 (Oct. 8, 2012) 
 CASE NUMBER: 0:2011cv61776. 
 JUDGE: James I. Cohn 
@@ -15443,7 +15443,7 @@ EVENT: The plaintiff alleged that the defendant maintained an unsafe :work envir
 SPECIFIC INJURY: Disabling injuries to neck and back 
 PERTINENT INFORMATION: The award included $498,382 for impairment: $774:478 for pain and suffering; $111,531 for mental anguish and 
 ----------
-AMOUNT: $28,400,000,(Jim Wells Co., TX) 
+AMOUNT: $28,400,000 (Jim Wells Co., TX) 
 CASE: Angelique 'and Elida Briones v. Lefleur Transportation of Texas. Inc 2014 TX Jury Verdicts Review LEXIS 263 (Aug. 7, 2014) ". 
 CASE NUMBER: 12-03-50941-CV. 
 JUDGE: Richard C. Terreli 
@@ -15883,7 +15883,7 @@ SPECIFIC INJURY: Left hip fracture and femoral shaft fracture: Part :
 PERTINENT INFORMATION: The parties settled at mediation .". .. .in 
 ----------
 AMOUNT: '$2,000,000 (Cook Co., IL) . 
-CASE: Sirinūn Wechásethanon v. Lakeshore Waste Services L Jury Verdict Review LEXIS 61'(Jan. 10, 2012)"; 
+CASE: Sirinūn Wechásethanon v. Lakeshore Waste Services L Jury Verdict Review LEXIS 61 (Jan. 10, 2012)"; 
 CASE NUMBER: 2008-S-0110 : 
 JUDGE: Elizabeth Budzịnski' . . . .in . 
 EXPERTS: Not published 
@@ -16682,7 +16682,7 @@ INJURED PARTY: 35 year old male ....... .
 EVENT: "The plaintiff alleged that the defendants acted with excessive force whiện responding to a suicide callii SPECIFIC INJURY; , :Jay and, facial, fractures; Fractured teeth; Emotional distress 
 ----------
 AMOUNT: $34,500,000 (U.Ş. Dist. Ct. W.D. WA).. CASE. Larry David and Alan Northrop v. Clark County, et al., 2013 wa .. .... JUMBER: 3:12-cv-05765-RUB, ........ CASEN 
-JUDGE: Ronald J. Bryan MEDIATOR: Keith Kubik EYPERTS: T. Michael Nault (police practices/rormer King County Sheriffs Deputy) Seattle, WA, Gary Wells Ph.D. identification) Ames, IA; Elizabeth Loftis Ph.D.'(eyewitness identi CA, D.P., Van Blaricom (police practices) Bellevue, WA Ledbetter (police practices/police detective) Seattle: WA., practices) St. Petersburg FL for the defendant.! 
+JUDGE: Ronald J. Bryan MEDIATOR: Keith Kubik EYPERTS: T. Michael Nault (police practices/rormer King County Sheriffs Deputy) Seattle, WA, Gary Wells Ph.D. identification) Ames, IA; Elizabeth Loftis Ph.D. (eyewitness identi CA, D.P., Van Blaricom (police practices) Bellevue, WA Ledbetter (police practices/police detective) Seattle: WA., practices) St. Petersburg FL for the defendant.! 
 ATTORNEYS: John R. "Jack" Connelly, Jr.:& Offices Tacoma, WA, Timothy Ford & David Whedhee of McDong Bayless, Seattle, WA for the plaintiffs; Bernard Vali ino Attorney's Office, Vancouver, WA, Stewart' Estes.' Richard Culumber of Keating Bucklin & McCormack, Seattle, WA INJURED PARTIES: 49 and 57 year old malesi . . 
 EVENT: The plaintiffs alleged that they were we cerated for a rape they did not commit :: 
 SPECIFIC INJURY: Emotional distress 
@@ -17821,7 +17821,7 @@ EVENT: The plaintiff's vehicle was rear ended as it stopped to pay a toll. The p
 SPECIFIC INJURY: Plaintiff husband-Aggravation of partal hearing loss; Head trauma: cervical "burst fracture; post traumatic stress disorder with sleep difficulties. ... . .. Plaintiff wife-Left, non-dominan rotator cuir ear.... 
 PERTINENT INFORMATION: The parties settled before trial 
 ----------
-AMOUNT: $1,975,000.(Union Co., NJ).... . .. 
+AMOUNT: $1,975,000 (Union Co., NJ).... . .. 
 CASE: Plaintiff v. Defendant Driver, 2014 NJ Jürv .. ... ... ii. ii,'. (July 2014). 
 CASE NUMBER: Not published 
 JUDGE: William Wertheimer 
@@ -18139,7 +18139,7 @@ INJURED PARTY: Female
 EVENT: While walking through the defendant's store, the plain fell in a puddle of water that had iallegedly been leaking from a malfunctioning cooler 
 SPECIFIC INJURY:: Ankle; left arm; lower back; right foot; left:hip.contusion: unters 
 ----------
-AMOUNT: $1.041,947,(Palm Beach Co., FL);rd's16.5. 
+AMOUNT: $1.041,947 (Palm Beach Co., FL);rd's16.5. 
 CASE: Duvall v. Higgenbotham, et al., 2013 FL Jury Verdicts Review LEXIS 207 (October 10, 2013). 1 ... Bina egna 
 CASE NUMBER: 50-2005CA003627XXXXMB 
 JUDGE: Edward H. Fine · 
@@ -18863,7 +18863,7 @@ ATTORNEYS: David Gódosky, Anthony P. Gentile of Godosky & finante of the defend
 INJURED PARTY: 24 year old male stice was standing on a metal grate and 
 EVENT: The plaintiff, a union apprentice," was standing on ... 
 ----------
-AMOUNT: $7,000,000,(Lane, Co., OR) ;;!; 
+AMOUNT: $7,000,000 (Lane, Co., OR) ;;!; 
 CASE: Estate of Green v. Corizon Health, Inc., 2015 Ore. Jury Verdi LEXIS :175 (August 2015); NUMBER: 501401224 
 CASE NUMBER: 
 JUDGE: Not published 
@@ -19110,7 +19110,7 @@ INJURED PARTY: 41 year old male
 EVENT: The 91-year-old defendant made as motorcycle in the front end 
 SPECIFIC INJURY: Ankle, spine, pelvis, femurs, tibia, nous 
 ----------
-AMOUNT: $11,000,000,(Manatee Co., FL) .st.,.. 
+AMOUNT: $11,000,000 (Manatee Co., FL) .st.,.. 
 CASE: Allen Young v. The L.E. Myers Co., 2013 FL Jüry Verdicts Rptr. LEXTS . ?"|::.... . 
 CASE NUMBER: 2011-CA-000374.. . ....!" .. ., 
 JUDGE: Peter A! 'Dubenskystic...!:.;.. å, FL, Dr. Joseph 
@@ -21746,7 +21746,7 @@ DECEDENT: 2 year old female take a proper diagnosis when the decedent was treate
 SPECIFIC INJURY: Death: gastroparesis 
 CASE: Estate of 1 
 ----------
-AMOUNT: $124.260.000.(Montgomery Co., PA) : Estate of Ellen Gregory Robb by Gary Gregory v. Rafael Robb, 2014 Jury Verdicts Review LEXIS 140 (Nov. 5, 2014) 
+AMOUNT: $124.260.000 (Montgomery Co., PA) : Estate of Ellen Gregory Robb by Gary Gregory v. Rafael Robb, 2014 Jury Verdicts Review LEXIS 140 (Nov. 5, 2014) 
 CASE NUMBER: 200836401 
 JUDGE: Thomas M. Del Ricci 
 EXPERTS: Not published 
