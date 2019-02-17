@@ -118,7 +118,8 @@ PERTINENT INFORMATION: The plaintiff settled with the primary insure for $250,00
 ----------
 AMOUNT: $745,000 (Ocean Co., NJ) 
 CASE: Brattan v. Wilbert, 2014 NJ Jury Verdicts Review LEXIS 150 (March in 
-CASE NUMBER: OCN-L-1838-10 MEDIATOR: Thomas O'Brien 
+CASE NUMBER: OCN-L-1838-10 
+MEDIATOR: Thomas O'Brien 
 EXPERTS: Wayne Nolte, PE, engineering, Hazlet, NJ, Dr. Carney DeSarano, general surgery, Neptune, NJ, Dr. Leila Grayson, plastic and reconstructive surgery, Wall Twp, NJ for the plaintiff; name of the defendant's experts not published 
 ATTORNEYS: Sámuel J. Vacchiano of Maggs & McDermott, LLC, Brielle, NJ for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: Female in her mid-40s 
@@ -205,7 +206,8 @@ PERTINENT INFORMATION: The decedent was survived by his wife and a 20-year-old s
 ----------
 AMOUNT: $4,200,000 (Skagit Co., WA) 
 CASE: Jennifer, Jason and Jack Mancil v. Skagit Valley Hosp., et al, 2015 Jury Verdicts & Sett. LEXIS 66 (April 30, 2014). 
-CASE NUMBER: 12-2-00857-7 MEDIATOR: Tom Harris 
+CASE NUMBER: 12-2-00857-7 
+MEDIATOR: Tom Harris 
 EXPERTS: Dr. Clifford Deveney, bariatric surgeon, Portland, OR, Dr. M Federle, radiologist, Stanford. CA, Dr. John Keats, ob/gyn, Phoenix, AZ, D. Knudsen, ob/gyn, Mount Vernon, WA, Dr. James McGough, psychiatrist Los Angeles. CA; Dr. Tracy Spencer, internal Medicine. Everett, WA. Bellerive, life care planner, Gig Harbor, WA, John .Fountaine, vocational rehabilitation, Bothell, WA for the plaintiff; Dr. Jonathan Berlin, radiologist, Chicago IL, Dr. R. Mize Conner, ob/gyn, Issaquah, WA, Dr. Theodore Dubinsky, radiologist, Seattle, WA, Dr. Martin Durtschi, general surgeon, Seattle, WA, Dr. Alvin Elisco, internal medicine; Phoenix, AZ, Dr. Steven Glass, ' pediatric neurologist, Bothell, WA, Dr. William Hope, general surgeon, Wilmington, NC, Dr. Michael Katz. ob/gyn, San Francisco, CA, Dr. Gordon Moss. internal medicine, Farmington Hills, MI, Dr. Michael Stevens, internal medicine, Scotts dale, AZ, Dr. Steven Peikin, gastroenterologist, Mount Laurel, NJ, Dr. Scott Stuart, internal medicine, Kirkland, WA, Linda Olzack, life care planner, Atwater CA, Cindy Sayre RN, Seattle, WA for the defendants 
 ATTORNEYS: Reed Schifferman, Seattle, WA for the plaintiff; Jennifer Moore, Bennett Bigelow & Leedom, Donna Moniz, Johnson Graffe Keay Moniz & Wick. Rebecca Ringer of Floyd Pflueger & Ringer, Seattle, WA for the defendants INJURED PARTIES: 29 year old female nurse and her infant son 
 EVENT: Plaintiff developed a small bowel obstruction when she was 27 weeks pregnant and was admitted to defendant hospital. The hospital did not notify plaintiff's obstetrician The delay in diagnosing the bowel obstruction led to necrosis of the plaintiff's bowel and preterm delivery SPECIFIC INJURIES: Abdominal and bowel injuries; Post traumatic stress disorder; developmental delay autism spectrum 
@@ -213,7 +215,8 @@ PERTINENT INFORMATION: Settlement included $3,000,000 in medical expenses and $9
 ----------
 AMOUNT: $3,500,000 (WA) 
 CASE: Plaintiff v. Defendant Doctor and Clinic, 2014 WA Jury Verdicts & Sett. LEXIS 132 (March 27, 2014) 
-CASE NUMBER: Not published MEDIATOR: Tom Harris 
+CASE NUMBER: Not published 
+MEDIATOR: Tom Harris 
 EXPERTS: Dr. Joel Erickson, cardiologist, Santa Rosa CA, Dr. Karyl Van Benthuysen, cardiologist, Littleton, CO, Dr. John MacGregor, cardiologist, San Francisco, CA, Dr. Robert Wohlman, gastroenterologist, Bellevue, WA, John Fountaine, vocational rehabilitation, Christina Tapia Ph.D., economist, Bothell, WA for the plaintiff; name of the defendant's expert not published 
 INJURED PARTY: Adult male firefighter 
 EVENT: The plaintiff experienced pain upon exertion and consulted the defendant clinic. The clinic referred him to a cardiologist who determined that his symptoms were not cardiac related. Shortly after his consult, he suffered a major myocardial infarction. The plaintiff was hospitalized for approximately a month, during which time he suffered from renal failure, requiring dialysis, pancreatitis, sepsis, extensive abdominal infections, heart rhythm instability, and ischemic bowel 
@@ -677,7 +680,8 @@ PERTINENT INFORMATION: The parties settled prior to trial for $1,162,500 from th
 ----------
 AMOUNT: $5,800,000 (Camden Co., NJ) 
 CASE: Crumley v. D'Andrea Construction Co., et al., 2012 NJ Jury Verdicts Review LEXIS 26 (Jan. 23, 2012) 
-CASE NUMBER: CAM-L-4391-09 MEDIATOR: Joel Rosen 
+CASE NUMBER: CAM-L-4391-09 
+MEDIATOR: Joel Rosen 
 EXPERTS: Not published 
 ATTORNEYS: Robert Mongeluzzi, Andrew Duffy of Saltz, Mongeluzzi, Barrett and Bendesky, Philadelphia, PA, Daniel Schwarz, John Popilock, Daniel Ashton of Schwarz Cleary Josem and Schwarz, Philadelphia, PA for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: Male iron worker 
@@ -697,7 +701,8 @@ PERTINENT INFORMATION: The parties settled prior to trial
 ----------
 AMOUNT: $2,500,000 (Essex Co., NJ) 
 CASE: Gjorgievski v. South Mountain Construction, et al., 2015 NI Jury Verdicts Review LEXIS 124 (June 2015) 
-CASE NUMBER: ESX-L-10013-11 MEDIATOR: Jack L. Lintner 
+CASE NUMBER: ESX-L-10013-11 
+MEDIATOR: Jack L. Lintner 
 EXPERTS: Not published 
 ATTORNEYS: James S. Lynch of Lynch Lynch Held Rosenberg, P.C., Hasb rouck Heights, NJ for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 46 year old male HAZMAT worker 
@@ -1560,7 +1565,8 @@ PERTINENT INFORMATION: The verdict included medical expenses of $187,782 and los
 AMOUNT: $2,060,000 (King Co., WA) 
 CASE: David P. Nelson, Jr. v. Ledcor Construction, Inc, Metropolitan Contract ing LLC, KG Investment Properties II, LLC, 2012 WA Jury Verdicts & Sett. LEXIS 105 (Mar. 12, 2012) 
 CASE NUMBER: 10-2-15820-1SEA 
-JUDGE: John Erlick MEDIATORS: Larry Levy & Thomas Harris 
+JUDGE: John Erlick 
+MEDIATORS: Larry Levy & Thomas Harris 
 INJURED PARTY: 43 year old male 
 EVENT: The plaintiff, a carpenter/drywall installer, was injured while working on a scaffold that tipped over 
 SPECIFIC INJURY: Ankle fracture requiring ankle fusion surgery 
@@ -1893,7 +1899,8 @@ PERTINENT INFORMATION: The case settled prior to jury selection. The settlement 
 ----------
 AMOUNT: $750,000 (Multnomah Co., OR) 
 CASE: Solis v. Heather Park Development, LLC, 2014 Ore. Jury Verdicts & Sett. LEXIS 70 (April 18, 2014) 
-CASE NUMBER: 1302-01698 MEDIATOR: Michael McClinton 
+CASE NUMBER: 1302-01698 
+MEDIATOR: Michael McClinton 
 EXPERTS: Dr. Niknam Eshraghi, general surgeon, Portland, OR, Timothy Birt, fireman, Tigard, OR, Gregory Wong, fire causation/origin, Portland, OR for the plaintiff; name of the defendant's expert not published 
 ATTORNEYS: Timothy Vanagas, Portland, OR for the plaintiff: Jeffrey Hansen of Smith Freed & Eberhard, Portland, OR for the defendant 
 INJURED PARTY: 41 year old male 
@@ -1913,7 +1920,7 @@ SPECIFIC INJURY: Fractured arm; 16 rib fractures: collapsed lung; brain injury
 PERTINENT INFORMATION: The plaintiff settled the claim against the racetrack and its employees for the sum of $1,000,000 in a pre-trial agreement The plaintiffs settled with the owner and driver of the vehicle for the sum o $350,000 
 ----------
 AMOUNT: $2,620,000 (Philadelphia Co., PA) 
-CASE: McLees v. Defendants, 2015 PA Jury Verdicts Review LEXIS 38 (March 8, 2015) 
+CASE: McLees v. Defendants, 2015 PA Jury Verdicts, Review LEXIS 38 (March 8, 2015)  
 CASE NUMBER: 12-10-02798 
 JUDGE: Leon W. Tucker 
 EXPERTS: Kevin O'Connor, accident reconstruction, Phoenixville, PA, Joseph Nicolo, Audubon, PA, Andrew Verzilli, economics, Lansdale, PA, Alex Karrás, life care, Malvern, PA, Brenda M. Ivker, neuropsychology, Philadelphia, PA, Guy 1. Fried, pain management, Philadelphia, PA for the plaintiff; name of the defendant's expert not published 
@@ -1943,7 +1950,8 @@ PERTINENT INFORMATION: The plaintiff's husband made a loss of consor tium claim
 AMOUNT: $2,000,000 (King Co., WA) 
 CASE: Rothenberger v. Kent School District (KSD), 2013 WA Jury Verdicts & Sett. LEXIS 133 (April 18, 2013) 
 CASE NUMBER: 10-2-41925-OKNT 
-JUDGE: Bill Bowman MEDIATOR: Bruce Hilyer 
+JUDGE: Bill Bowman 
+MEDIATOR: Bruce Hilyer 
 EXPERTS: Dr. Douglas Hanel (treating orthopedic surgeon), Dr. Marc Kirschner (neurologist), Seattle, WA, Robert Anderson Ph.D. (metallurgist) Los Altos Hills CA, Mark Lawless (construction safety) Seattle, WA, Richard Gill Ph.D. (human factors) Spokane, WA, Gary Rushing Ed.D. (wrestling/Sports Safety) Mankato MD, William Brandt (Economist) Bainbridge Island; Theodore Becker Ph.D. (physical capacities) Everett; Anthony Choppa (Life Care Planner/Vocational Rehabilitation) Bothell: Jay Syverson (Accident Reconstructionist) Seattle, WA onomist) Bellevue, WA, Carl Gann (life care planner/vocational rehabilitation) Tacoma, WA, Susan Evans (industrial hygienist) Seattle, WA, Erin Harley Ph.D. (human factors) Bellevue, WA, Brandon Erickson (structural engineer) Vancou ver, WA for the defendant 
 ATTORNEYS: Ron Perey, Doug Weinmaster & Jim Holland, Perey L'aw Group. Seattle, WA for the plaintiff; Bob Christie, Christie Law Group, Seattle, WA for the defendant 
 INJURED PARTY: 15 year old male 
@@ -2569,7 +2577,8 @@ PERTINENT INFORMATION: The parties settled prior to trial
 ----------
 AMOUNT: $1,250,000 (Burlington Co., NJ) 
 CASE: LaGrange v. Fee, et al., 2013 NJ Jury Verdicts Review LEXIS 209 (August 2013) 
-CASE NUMBER: BUR-L-2894-11 . MEDIATOR: Charles R. Previti 
+CASE NUMBER: BUR-L-2894-11 . 
+MEDIATOR: Charles R. Previti 
 EXPERTS: Michael Robinson, DC (chiropractic) Linden, NJ, Ellen Rader Smith (functional capacity evaluator) Montville, NJ, Dr. Luis Cervante (neurosurgery) Moorestown, NJ, Dr. John Cifelli (neurosurgery) Union, NJ, Dr. John Buck (pain management), Robert Wolf, Ed.D., MBA (vocational-economic loss evaluation) Cherry Hill, NJ for the plaintiff; Kirk Thibault, PhD (biomechanical engineering) Philadelphia, PA, Dr. Howard Levin (neurological) Philadelphia, PA, Kathy Lawler, PhD (neuropsychological) Philadelphia, PA, Dr. Roy Friedenthal (orthopedic) Hammonton, NJ, Dr. Michael Bercick (orthopedic surgery) Eliza beth, NJ, Laurie Havasi (vocational) for the defendant 
 ATTORNEYS: J. Robert Bratman, Evan Lide of Stark & Stark, Lawrenceville, NJ for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: Male in his early 40s 
@@ -2630,7 +2639,8 @@ PERTINENT INFORMATION: The case settled prior to trial for $1,250,000, which inc
 ----------
 AMOUNT: $712,500 (Middlesex Co., NJ) 
 CASE: Costello v. Clairidge Court Association, 2013 NJ Jury Verdicts Review LEXIS 231 (August 2013) 
-CASE NUMBER: MID-L-5724-11 MEDIATOR: Mark Epstein 
+CASE NUMBER: MID-L-5724-11 
+MEDIATOR: Mark Epstein 
 EXPERTS: Ronald Saxon, PE (engineer) Port Murray, NJ, Dr. Haodong Song (neurology) Old Bridge, NJ, Brett Prince PhD (neuropsychology) Neptune, NJ, or. Cary Skolnick (orthopedics) Manalapan, NJ for the plaintiff; name of the defendant's experts not published 
 ATTORNEYS: Robert M. Adochio of Law Offices of Robert M. Adochio, New Brunswick, NJ for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 32 year old female 
@@ -2820,7 +2830,7 @@ SPECIFIC INJURY: Mild brain injury; fractured vertebra and herniated discs, leg 
 PERTINENT INFORMATION: The parties settled prior to trial , 
 ----------
 AMOUNT: $2,620,000 (Philadelphia Co., PA) 
-CASE: McLees v. Defendants, 2015 PA Jury Verdicts Review LEXIS 38 (Mas 8, 2015) 
+CASE: McLees v. Defendants, 2015 PA Jury Verdicts, Review LEXIS 38 (March 8, 2015)  
 CASE NUMBER: 12-10-02798 
 JUDGE: Leon W. Tucker 
 EXPERTS: Kevin O'Connor, accident reconstruction. Phoenixville, PA, JOS Nicolo, Audubon, PA, Andrew Verzilli, economics, Lansdale, PA, Alex Kan life care, Malvern, PA, Brenda M. Ivker, neuropsychology, Philadelphia, PA W. Fried, pain management, Philadelphia, PA for the plaintiff; náme 01 defendant's expert not published 
@@ -2893,7 +2903,8 @@ PERTINENT INFORMATION: The parties settled prior to trial. The settlem included 
 ----------
 AMOUNT: $400,000 (Snohomish Co., WA) 
 CASE: Kati and Marcus Phipps v. Matthew Stickney, Jane Doe Stickile? Lawrence Stickney, Pollyanna Stickney and David Stickney, 2012 WA " Verdicts & Sett. LEXIS 133 (Mar. 16, 2012) 
-CASE NUMBER: 11-2-06817-8 MEDIATOR: Thomas V. Harris 
+CASE NUMBER: 11-2-06817-8 
+MEDIATOR: Thomas V. Harris 
 EXPERTS: Dr. Kaj Johansen (vascular surgeon), Dr. Phil Haeck (plastic surge . Seattle, WA, John Berg (vocational rehabilitation) Seattle, WA, Bill bi (economist) Bainbridge Island, WA, Michael Freeman Ph.D. (epidemiolo accident reconstructionist) Portland OR, Mark Olson (vehicle damage) WA for the plaintiff; Dr. Lawrence Murphy (neurologist) Seattle, WA, Newbery (mechanical engineer) Mountlake Terrace, WA for the defendan 
 ATTORNEYS: John D. Webber & Cydney Campbell Webster of Lundberg & Peschel, Seattle, WA for the plaintiff; Gary Western of Wilson Cochran Dickerson, Matthew Kennedy, Mary E. Owen & Associates; J.J Law Offices of Kelley J. Sweeney, Seattle, WA for the defendant 
 INJURED PARTY: 28 year old female bookkeeper 
@@ -2904,7 +2915,8 @@ PERTINENT INFORMATION: The settlement included medical expe $74,682, lost wages 
 AMOUNT: $575,000 (Spokane Co., WA) 
 CASE: Arlin Hudson and Amy Hudson v. Elizabeth McLellan and Sisters of the Holy Name, 2013 WA Jury Verdicts & Sett. LEXIS 35 (Nov. 30, 2012). 
 CASE NUMBER: 11-2-00337-4 
-JUDGE: Maryann Moreno MEDIATOR: Gary Bloom 
+JUDGE: Maryann Moreno 
+MEDIATOR: Gary Bloom 
 EXPERTS: Dr. Dean Martz (neurosurgeon) Spokane, WA for the plaintiff; Dr. Michael Barnard (orthopedic surgeon) Shelton, WA, Edward Pool (mechanical engineer) Spokane, WA for the defendant 
 ATTORNEYS: James Gooding & Janelle Carney of Graham Lundberg & Peschel, Spokane, WA for the plaintiff; Michael Ramsden of Ramsden & Lyons, Coeur d'Alene, ID for the defendant 
 INJURED PARTY: 63 year old retired male 
@@ -3786,7 +3798,8 @@ PERTINENT INFORMATION: The parties agreed to a confidential settlement during me
 ----------
 AMOUNT: $3,750,000 (MA) 
 CASE: Plaintiff Motorist v. Defendant Driver, 2016 MA Jury Verdicts Re LEXIS 26 (Sept. 30, 2015) 
-CASE NUMBER: Not published MEDIATOR: Not published 
+CASE NUMBER: Not published 
+MEDIATOR: Not published 
 EXPERTS: Not published 
 ATTORNEYS: Patrick T. Jones and Timothy C. Kelleher III of Jones Ke Boston, MA for the plaintiff; name of the defendant's attorney not publishe 
 INJURED PARTY: 49 year old male 
@@ -4049,7 +4062,8 @@ PERTINENT INFORMATION: The case settled before trial for $1,240,000 the settleme
 ----------
 AMOUNT: $1,500,000 (Bronx Co., NY) 
 CASE: Tenesaca v. Pinnacle Realty Inc., et al., 2015 NY Jury Verdicts R LEXIS 179 (April 2015) 
-CASE NUMBER: 309165/11 MEDIATOR: Not published 
+CASE NUMBER: 309165/11 
+MEDIATOR: Not published 
 EXPERTS: Dr. Alberto M. Goldwaser, forensic psychiatrist, Jersey City, the plaintiff; Dr. William Head, psychiatrist, New York, NY for the defen 
 ATTORNEYS: Richard M. Winograd of Ginarte, O'Dwyer, Gonzalez, G & Winograd, LLP, Newark, NJ for the plaintiff; name of the defendant's all not published 
 INJURED PARTY: Male plaintiff in his 30s 
@@ -4239,7 +4253,8 @@ PERTINENT INFORMATION: The case settled during the trial i
 AMOUNT: $26,100,000 (Philadelphia Co., PA) 
 CASE: Peter M. Sneeringer II, et al. v. GLC Transportation Inc., et al., 2012 PA Jury Verdicts Review LEXIS 78 (June 5, 2012) 
 CASE NUMBER: 110501252 
-JUDGE: Marlene F. Lachman MEDIATOR: James R. Melinson 
+JUDGE: Marlene F. Lachman 
+MEDIATOR: James R. Melinson 
 EXPERTS: Not published 
 ATTORNEYS: Alan M. Feldman, Daniel J. Mann and Edward S. Goldis, Feldman Shepherd Wohlgeleriile d Wohlgelernter Tanner Weinstock & Dodig, Philadelphia, PA Tor the plaintiff. Chester A. Dudzinski, Salvatore Vilardi and Judith A. Moses. Cipriani & Werner, Philadelphia, PA for the defendant INJURED PARTIES: Two adult males and one adult female 
 EVENT: The plaintiff driver was stopped in traffic due to road construction when her vehicle was struck in the rear by a tractor-trailer traveling more than 70 mph. The plaintiff father of the driver was in front of the vehicle and died in the crash and the plaintiff husband was in the rear of the vehicle 
@@ -4308,7 +4323,8 @@ SPECIFIC INJURY: Anoxic brain injury with speech, memory, cognitive and behavior
 ----------
 AMOUNT: $2,150,000 (WA) 
 CASE: Plaintiff v. Defendant Radiologist and Hospital, 2014 WA Jury Verdicts & Sett. LEXIS 171 (May 16, 2014) 
-CASE NUMBER: Not published .. MEDIATOR: Thomas Harris: 
+CASE NUMBER: Not published 
+MEDIATOR: Thomas Harris
 EXPERTS: Dr. Wade Smith, neurologist, San Francisco, CA, Dr. Myron Marx, radiologist, San Francisco, CA, Dr. Randall Patten, radiologist, Olympia, WA, Dr. David Schriger, emergency medicine, Los Angeles CA for the plaintiff; Marnee Miner, JD Ph.D., psychologist/forensic evaluations, Seattle, WA, John Fountaine, vocational rehabilitation, Bothell, WA, Christina Tapia Ph.D., economist, Bothell, WA, Terry Moon, occupational therapist/physical capacities, Mountlake Terrace, WA for the defendant 
 ATTORNEYS: Roger Leslie, Law Office of Roger J. Leslie, Tyler Goldberg Hoss of Chemnick Moen Greenstreet, Seattle, WA for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 49 year old male safety officer 
@@ -4340,7 +4356,9 @@ PERTINENT INFORMATION: The plaintiff claimed medical expenses of $97,067
 AMOUNT: $5,000,000 (King Co., WA) 
 CASE: Plaintiff Baby v. Defendant Medical Center, 2012 WA Jury Verdicts & Sett. LEXIS 149 (Mar. 26, 2012) 
 CASE NUMBER: Not published 
-JUDGE: Leroy McCullough MEDIATOR: Tom Harris GXPERTS: Dr. Forrest Bennett (pediatrician) Seattle, WA, Dr. Robert Di Geronimo (neonatologist) Salt Lake City UT;, Dr. Andrea Morrison (pediatric Robert Moss (economist) Seattle, WA for the plaintiff; Dr. Steven Donn (neonatologist) Ann Arbor MI, Dr. Stephen. Glass (pediatric neurologist) Bain bridge Island, WA, Dr. John Gollhofer (obstetrician/gynecologist) Spokane, WA, Dr. Marvin Kamras (obstetrician/gynecologist) Sacramento, CA, Dr. Elizabeth Sanford (obstetrician/gynecologist) Tacoma, WA, Dr. Gordon Sze (neuroradiologist) New Haven, CT, Dr. Robert Zimmerman (pediatric neuroradiologist) Philadelphia PA, Rebecca Bellerive RN (life care planner) Gig Harbor, WA, Paul Torelli, Ph.D. (economist) Seattle, WA for the defendant 
+JUDGE: Leroy McCullough 
+MEDIATOR: Tom Harris 
+EXPERTS: Dr. Forrest Bennett (pediatrician) Seattle, WA, Dr. Robert Di Geronimo (neonatologist) Salt Lake City UT;, Dr. Andrea Morrison (pediatric Robert Moss (economist) Seattle, WA for the plaintiff; Dr. Steven Donn (neonatologist) Ann Arbor MI, Dr. Stephen. Glass (pediatric neurologist) Bain bridge Island, WA, Dr. John Gollhofer (obstetrician/gynecologist) Spokane, WA, Dr. Marvin Kamras (obstetrician/gynecologist) Sacramento, CA, Dr. Elizabeth Sanford (obstetrician/gynecologist) Tacoma, WA, Dr. Gordon Sze (neuroradiologist) New Haven, CT, Dr. Robert Zimmerman (pediatric neuroradiologist) Philadelphia PA, Rebecca Bellerive RN (life care planner) Gig Harbor, WA, Paul Torelli, Ph.D. (economist) Seattle, WA for the defendant 
 ATTORNEYS: Micah LeBank & John Connelly, Jr., Connelly Law Offices, Tacoma, WA for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: Female infant 
 EVENT: The plaintiff was born with a heart rate of 30, she was limp and pale and had no respiratory effort. She was resuscitated and was taken to the nursery for observation. The plaintiffs alleged that the defendants. failed to identify signs of fetal-distress 
@@ -4349,7 +4367,8 @@ PERTINENT INFORMATION: The plaintiffs claimed medical expenses of $236,847. The 
 ----------
 AMOUNT: $4,200,000 (Skagit Co., WA) 
 CASE: Jennifer, Jason and Jack Mancil v. Skagit: Valley Hosp., et al, 2015 WA Jury Verdicts & Sett. LEXIS 66 (April 30, 2017) 
-CASE NUMBER: 12-2-00857-7 MEDIATOR: Tom Harris 
+CASE NUMBER: 12-2-00857-7 
+MEDIATOR: Tom Harris 
 EXPERTS: Dr. Clifford Deveney, bariatric surgeon, Portland, OR, Dr. Michael Federle, radiologist, Stanford, CA, Dr. John Keats, ob/gyn, Phoenix, AZ, Dr. John Knudsen, ob/gyn, Mount Vernon, WA, Dr. James McGough, psychiatrist/autism, Los Angeles, CA; Dr. Tracy Spencer, internal Medicine, Everett, WA, Rebecca Bellerive, life care planner, Gig Harbor, WA, John Fountaine, 'vocational rehabilitation. Bothell, WA for the plaintiff;, Dr. Jonathan Berlin, radiologist, Chicago IL, Dr. R. Mize Conner, ob/gyn, Issaquah, WA, Dr. Theodore Dubinsky, radiologist, Seattle, WA, Dr. Martin Durtschi, general surgeon, Seattle, WA, Dr. Alvin Elisco, internal medicine, Phoenix, AZ, Dr. Steven Glass, pediatric neurologist, Bothell, WA, Dr. William Hope, general surgeon, Wilmington, NC, Dr. Michael Katz. ob/gyn, San Francisco, CA, Dr. Gordon Moss, internal medicine. Farmington Hills, MI, Dr. Michael Stevens, internal medicine, Scotts dale, AZ. Dr. Steven Peikin, gastroenterologist, Mount Laurel, NJ, Dr. Scott Stuart, internal medicine, Kirkland, WA, Linda Olzack, life care planner, Atwater CA, Cindy Sayre RN, Seattle, WA for the defendants 
 ATTORNEYS: Reed Schifferman, Seattle, WA for the plaintiff; Jennifer Moore, Bennett Bigelow & Leedom. Donna Moniz, Johnson Graffe Keay Moniz & Wick. Rebecca Ringer of Floyd Pflueger & Ringer, Seattle, WA for the defendants INJURED PARTIES: 29 year old female nurse and her infant son 
 EVENT: Plaintiff developed a small bowel obstruction when she was 27 weeks pregnant and was admitted to defendant hospital. The hospital did not notify plaintiff's obstetrician The delay in diagnosing the bowel obstruction led to necrosis of the plaintiff's bowel and preterm delivery SPECIFIC INJURIES: Abdominal and bowel injuries; Post traumatic stress disorder; developmental delay autism spectrum ;'.. 
@@ -4357,7 +4376,8 @@ PERTINENT INFORMATION: Settlement included $3,000,000 in medical expenses and $9
 ----------
 AMOUNT: $1,100,000 (Door Co., WI) 
 CASE: Strege, et al. v. Rural Mutual Ins. Co., et al., 2015 WI Jury Verdicts & Sett. LEXIS 4 (Dec. 2014) 
-CASE NUMBER: 11 CV 22 MEDIATOR: Peter Diltz 
+CASE NUMBER: 11 CV 22 
+MEDIATOR: Peter Diltz 
 EXPERTS: Dr. Richard Heckert, ophthalmologist, Green Bay,WI, Mariellen Fisher, Ph.D., a neuropsychologist, Wauwatosa, WI, Dr. Steven Weinshel, neurosurgeon, Green Bay, WI, Dr. Scott Robinson, O.D., optometry expert, Milwaukee, WI, Kevin Schutz, M.S., vocational, Madison, WI for the plaintiff; Dr. Richard Colan, neurologist, Oak Creek, WI, Robert Newby, Ph.D., neurop sychologist, Milwaukee, WI, Dr. Eli Peli, O.D., optometrist, Boston, MA, Dr. Joseph Rizzo, III, ophthalmologist, Boston, MA, Timothy Riley, vocational expert, Milwaukee, WI for the defendant 
 ATTORNEYS: Ralph J. Tease, Jr. of Habush & Rottier Green Bay, WI for the plaintiff; William R. Wick of Nash, Spindler, Grimstad & McCracken, Manito woc, WI for the defendant 
 INJURED PARTY: 7 month old male 
@@ -5496,7 +5516,8 @@ SPECIFIC INJURY: Second and some third degree burns to the lower legs; Burns to 
 ----------
 AMOUNT: $425,000 (Passaic Co., NJ) 
 CASE: Cooper v. Eagle Roofing and Chimneys, 2015 NJ Jury Verdicts Review LEXIS 249 (October 16, 2015) 
-CASE NUMBER: PAS-L-1364-14 MEDIATOR: Eugene J. Cody 
+CASE NUMBER: PAS-L-1364-14 
+MEDIATOR: Eugene J. Cody 
 EXPERTS: Not published 
 ATTORNEYS: Timothy J. Fonseca of Corradino & Papa, LLC, Clifton, NJ for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 76 year old male 
@@ -5527,7 +5548,8 @@ PERTINENT INFORMATION: The plaintiff claimed medical expenses $26,000 and lost w
 ----------
 AMOUNT: $750,000 (Multnomah Co., OR) 
 CASE: Solis v. Heather Park Development, LLC, 2014 Ore. Jury Verdicts & Sett. LEXIS 70 (April 18, 2014) 
-CASE NUMBER: 1302-01698 MEDIATOR: Michael McClinton 
+CASE NUMBER: 1302-01698 
+MEDIATOR: Michael McClinton 
 EXPERTS: Dr. Niknam Eshraghi, general surgeon, Portland, OR, Timothy Birr, fireman, Tigard, OR, Gregory Wong, fire causation/origin, Portland, OR for the plaintiff; name of the defendant's expert not published " . .. 
 ATTORNEYS: Timothy Vanagas, Portland, OR for the plaintiff; Jeffrey Hansen of Smith Freed & Eberhard, Portland, OR for the defendant 
 INJURED PARTY: 41 year old male 
@@ -5911,7 +5933,8 @@ SPECIFIC INJURY: Sarcomatoid mesothelioma; Death
 ----------
 AMOUNT: $2,000,000 (MA) 
 CASE: Plaintiff v. Defendant Doctor, 2015 Medical Litig. Alert LEXIS 290 (October 2015) 
-CASE NUMBER: Not published MEDIATOR: Not published 
+CASE NUMBER: Not published 
+MEDIATOR: Not published 
 EXPERTS: Not published 
 ATTORNEYS: Patrick T. Jones and Donna R. Corcoran of Jones Kellentel, Boston, MA for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 32 year old female 
@@ -6171,7 +6194,8 @@ PERTINENT INFORMATION: The case settled with the defendants. The company that co
 AMOUNT: $26,100,000 (Philadelphia Co., PA) 
 CASE: Peter M. Sneeringer II, et al. v. GLC Transportation Inc., et al., 2012 PA Jury Verdicts Review LEXIS 78 (June 5, 2012) 
 CASE NUMBER: 110501252 
-JUDGE: Marlene F. Lachman MEDIATOR: James R. Melinson 
+JUDGE: Marlene F. Lachman 
+MEDIATOR: James R. Melinson 
 EXPERTS: Not published 
 ATTORNEYS: Alan M. Feldman, Daniel J. Mann and Edward S. Goldis. Feldman Shepherd Wohlgelernter Tanner Weinstock & Dodig, Philadelphia, PA for the plaintiff: Chester A. Dudzinski, Salvatore Vilardi and Judith A. Moses. Cipriani & Werner, Philadelphia, PA for the defendant INJURED PARTIES: Two adult males and one adult female 
 EVENT: The plaintiff driver was stopped in traffic due to road construction when her vehicle was struck in the rear by a tractor-trailer traveling more than 70 mph. The plaintiff father of the driver was in front of the vehicle and died in the crash and the plaintiff husband was in the rear of the vehicle 
@@ -6768,7 +6792,8 @@ PERTINENT INFORMATION: The award for the husband was reduced by his comparative 
 ----------
 AMOUNT: $435,000 (Bergen Co., NJ) 
 CASE: Kane v. DeBoer, 2012 NJ Jury Verdicts Review LEXIS 150 (June 19, 2012) 
-CASE NUMBER: BER-L-4681-10 MEDIATOR: Mark Eps 
+CASE NUMBER: BER-L-4681-10 
+MEDIATOR: Mark Eps 
 EXPERTS: Kenneth Kutner, PhD (neuropsychology) Hackensack, NJ for the plaintiff; Name of the defendant's expert not published 
 ATTORNEYS: Robert B. Linder; James Pocchia of Law Offices of Robert B. Linder Englewood NL for the plaintiff; Name of the defendant's attorney not published 
 INJURED PARTY: 67 year old male 
@@ -6977,8 +7002,10 @@ PERTINENT INFORMATION: The parties entered into a confidential settle ment, whic
 ----------
 AMOUNT: $900,000 (Bergen Co., NJ) 
 CASE: Santana v. Chan, 2015 NJ Jury Verdicts Review LEXIS 243 (October 16, 2015). 
-CASE NUMBER: Not published MEDIATOR: Brian Marinotti 
-EXPERTS: Not published ATTORNEYS. Richard LaBarbiera of LaBarbiera & Martinez, North Bergen. NJ for the plaintiff; name of the defendant's attorney not, published . 
+CASE NUMBER: Not published 
+MEDIATOR: Brian Marinotti 
+EXPERTS: Not published 
+ATTORNEYS: Richard LaBarbiera of LaBarbiera & Martinez, North Bergen. NJ for the plaintiff; name of the defendant's attorney not, published . 
 INJURED PARTY: Male in his early 50s 
 EVENT: The defendant's vehicle struck the plaintiff's bicycle as he was riding in 
 SPECIFIC INJURY: Right elbow; Bicep tendon rupture; Wrist and shoulder 
@@ -7337,7 +7364,8 @@ PERTINENT INFORMATION: The $250,000, settlement represented the . policy limits 
 ----------
 AMOUNT: $1,300,000 (Fairfield Co., CT) 
 CASE: Michael Slugg v. M2 Products, LLC, 2014 CT Jury Verdicts Review LEXIS 45 (May 27, 2014). 
-CASE NUMBER: FST-CV11-601-5535-S MEDIATOR: Not published 
+CASE NUMBER: FST-CV11-601-5535-S 
+MEDIATOR: Not published 
 EXPERTS: Irving Oialvo. Ph.D., engineering, Stamford, CT, Kris Seluga, P.E., engineering. Stamford. CT for the plaintiff; name of the defendant's expert not published 
 ATTORNEYS: Brenden P. Leydon of Tooher Wocl & Leydon LLC, Stamford, CT, Paul R. Thomson, Ill of 
 INJURED PARTY: 54 year old male 
@@ -7357,7 +7385,8 @@ PERTINENT INFORMATION: The judge permitted the strict liability cause of action 
 ----------
 AMOUNT: $3,750,000 (MA) 
 CASE: Plaintiff Motorist v. Defendant Driver, 2016 MA Jury Verdicts Review LEXIS 26 (Sept. 30, 2015) 
-CASE NUMBER: Not published MEDIATOR: Not published 
+CASE NUMBER: Not published 
+MEDIATOR: Not published 
 EXPERTS: Not published 
 ATTORNEYS: Patrick T. Jones and Timothy C. Kelleher III of Jones Kelleher, Boston, MA for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 49 year old male 
@@ -7419,7 +7448,8 @@ SPECIFIC INJURY: Brain contusion; Skull fracture; Corneal abrasion
 ----------
 AMOUNT: $290,000 (Cumberland Co., NJ) . 
 CASE: Ianni v. B-A-Pro Sports Products, Inc., 2014 NJ Jury Verdicts Review LEXIS 57 (April 2014) 
-CASE NUMBER: CUM-L-468-11 MEDIATOR: James Courtney 
+CASE NUMBER: CUM-L-468-11 
+MEDIATOR: James Courtney 
 EXPERTS: Andres J. Calderon, P.E., biomechanical engineer, Malvern, PA. PhD, James G. Gorman, DO, FAAO, opthamologist, Vorhees, NJ for the plaintiff; name of the defendant's expert not published 
 ATTORNEYS: Charles H. Nugent, Jr. of Law Offices of Charles H. Nugent, Jr., Marlton, NJ for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 41 year old male insurance salesman 
@@ -7472,8 +7502,10 @@ PERTINENT INFORMATION: The parties settled prior to trial
 ----------
 AMOUNT: $1,400,000 (Middlesex Co., NJ) 
 CASE: Maimundar v. J.P. Stevens High School, et al., 2012 NJ Jury Verdicts Review LEXIS 203 (Aug. 1, 2012) 
-CASE NUMBER: MID-L-5370-10 MEDIATOR: Mark Ep 
-EXPERTS: Not published ATTORNEYS. David Mazie, David Freeman of Mazie Slater Katz & Freeman. LLC, Roseland, NJ for the plaintiff; Name of the defendant's attorney not published 
+CASE NUMBER: MID-L-5370-10 
+MEDIATOR: Mark Ep 
+EXPERTS: Not published 
+ATTORNEYS: David Mazie, David Freeman of Mazie Slater Katz & Freeman. LLC, Roseland, NJ for the plaintiff; Name of the defendant's attorney not published 
 INJURED PARTY: 75 year old female 
 EVENT: While attending a Halloween event at her grandchild's school, the plaintiff fell while walking through a T 
 SPECIFIC INJURY: Ruptured globe to one eye; Aggravation of macular degeneration in other eye 
@@ -7888,7 +7920,8 @@ SPECIFIC INJURY: Untreated benign tumor pressing on optic nerve ·
 ----------
 AMOUNT: $1,100,000 (Door Co., WI) 
 CASE: Strege, et al. v. Rural Mutual Ins. Co., et al., 2015 WI Jury Verdicts & Sett. LEXIS 4 (Dec. 2014) : 
-CASE NUMBER: 11 CV 22 MEDIATOR: Peter Diltz 
+CASE NUMBER: 11 CV 22 
+MEDIATOR: Peter Diltz 
 EXPERTS: Dr. Richard Heckert, ophthalmologist, Green Bay, WI, Mariellen Fisher, Ph.D., a neuropsychologist, Wauwatosa, WI, Dr. Steven Weinshel, neurosurgeon, Green Bay, WI, Dr. Scott Robinson, OD ontometry Milwaukee, WI, Kevin Schutz, M.S., Vocational, Madison, WI for the plaintiff, Dr. Richard Colan, neurologist, Oak Creek, WI, Robert Newby, Ph.D., neurop sychologist, Milwaukee, WI, Dr. Eli Peli, O.D., optometrist. Boston, MA, Dk. Joseph Rizzo, III, ophthalmologist, Boston, MA, Timothy Riley, yocational expert, Milwaukee, WI for the defendant 
 ATTORNEYS: Ralph J. Tease, Jr. of Habush & Rottier Green Bay, WI for the plaintiff; William R. Wick of Nash, Spindler, Grimstad & McCracken, Manito woc, WI for the defendant 
 INJURED PARTY: 7 month old male 
@@ -8063,7 +8096,8 @@ PERTINENT INFORMATION: The case settled prior to trial for the $300,000 policy l
 ----------
 AMOUNT: $425,000 (Passaic Co., NJ) 
 CASE: Cooper v. Eagle Roofing and Chimneys, 2015 NJ Jury Verdicts Review LEXIS 249 (October 16, 2015) 
-CASE NUMBER: PAS-L-1364-14 MEDIATOR: Eugene J. Cody 
+CASE NUMBER: PAS-L-1364-14 
+MEDIATOR: Eugene J. Cody 
 EXPERTS: Not published i 
 ATTORNEYS: Timothy J. Fonseca of Corradino & Papa, LLC, Clifton, NJ. for . de plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 76 year old male 
@@ -8188,7 +8222,8 @@ SPECIFIC INJURY: Jaw and facial fractures; Fractured teeth; emotional distress
 AMOUNT: $1,258,334 (Pierce Co., WA) 
 CASE: Hernandez v. Guadino, et al., 2015 WA Jury Verdicts & Sett. LEXIS 408 (July 10, 2015) 
 CASE NUMBER: 14-2-06598-7 
-JUDGE: Elizabeth Martin MEDIATOR: Paris Kallas 
+JUDGE: Elizabeth Martin 
+MEDIATOR: Paris Kallas 
 EXPERTS: Dr. Stephen Glass, pediatric neurologist, Bothell, WA, Dr. Jonathan Ritson, physiatrist, Gig Harbor, WA, Dr. Kevin Yuen, endocrinologist, Seattle. WA, Brad Powell Ph.D., psychologist, Olympia, WA, Theodore Becker Ph.D., physical capacities. Everett, WA, Anthony Choppa, vocational rehabilitation, Bothell, wa. Christina Tapia Ph.D., economist, Bothell, WA for the plaintiff; Dr. William Likosky, neurologist; Seattle, WA, Dr. Bradley Anawalt, endocrinologist. Bellevue, WA, Dr. Michael Battaglia; orthopedic surgeon, Bellevue, WA, Alan Breen Ph.D. neuropsychologist, Seattle, WA, Barbara Berndt, vocational reha bilitation. Tacoma, WA,, William Partin, economist, Bellevue, WA, for the ATTORNEYS, Colleen Durkin Peterson, Holman Law, Tacoma, WA for the Plaintiff: James Bulthuis of Clement & Drotz, Courtney Robinson of Betts Patterson Mines, Seattle, WA for the defendants 
 INJURED PARTY: 16 year old female 
 EVENT: The plaintiff was a passenger in a vehicle that was struck in a T-bone 
@@ -8675,7 +8710,8 @@ PERTINENT INFORMATION: The parties settled for $1,125,000 from per mary and umbr
 ----------
 AMOUNT: $3,750,000 (MA) 
 CASE: Plaintiff Motorist v. Defendant Driver, 2016 MA Jury Verdicts Ke LEXIS 26 (Sept. 30, 2015) 
-CASE NUMBER: Not published . MEDIATOR: Not published 
+CASE NUMBER: Not published 
+MEDIATOR: Not published 
 EXPERTS: Not published 
 ATTORNEYS: Patrick T. Jones and Timothy C. Kelleher III of Jones Kelleher, Boston, MA for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 49 year old male 
@@ -8759,7 +8795,8 @@ PERTINENT INFORMATION: The parties settled prior to trial for $1,162,500 from th
 ----------
 AMOUNT: $5,800,000 (Camden Co., NJ) 
 CASE: Crumley v. D'Andrea Construction Co., et al., 2012 NJ Jury Verdicts Review LEXIS 26 (Jan. 23, 2012) 
-CASE NUMBER: CAM-L-4391-09 MEDIATOR: Joel Rosen 
+CASE NUMBER: CAM-L-4391-09 
+MEDIATOR: Joel Rosen 
 EXPERTS: Not published 
 ATTORNEYS: Robert Mongeluzzi, Andrew Duffy of Saltz, Mongeluzzi, ba and Bendesky, Philadelphia, PA, Daniel Schwarz, John Popilock, Daniel Ashton of Schwarz Cleary Josem and Schwarz, Philadelphia, PA for the plaintiff; Nano of the defendant's attorney not published 
 INJURED PARTY: Male iron worker 
@@ -10217,7 +10254,8 @@ PERTINENT INFORMATION: The case settled prior to trial
 ----------
 AMOUNT: $745,000 (Ocean Co., NJ) 
 CASE: Brattan v. Wilbert, 2014 NJ Jury Verdicts Review LEXIS 150 (March 12 2014) 
-CASE NUMBER: OCN-L-1838-10 MEDIATOR: Thomas O'Brien 
+CASE NUMBER: OCN-L-1838-10 
+MEDIATOR: Thomas O'Brien 
 EXPERTS: Wayne Nolte, PE, engineering, Hazlet, NJ, Dr. Carney Desala, general surgery, Neptune, NJ, Dr. Leila Grayson, plastic and reconsul surgery, Wall Twp, NJ for the plaintiff; name of the defendant's experts * 
 ATTORNEYS: Samuel J. Vacchiano of Maggs & McDermott. LLC, Brielles for the plaintiff, name of the defendant's attorney not published 
 INJURED PARTY: Female in her mid-40s 
@@ -10282,7 +10320,8 @@ EVENT: As she struck the plair SPECIFIC IN
 AMOUNT: $26,100,000 (Philadelphia Co., PA) 
 CASE: Peter M. Sneeringer II, et al. v. GLC Transportation Inc., et al., 2012 PA Jury Verdicts Review LEXIS 78 (June 5, 2012) 
 CASE NUMBER: 110501252 
-JUDGE: Marlene F. Lachman MEDIATOR: James R. Melinson 
+JUDGE: Marlene F. Lachman 
+MEDIATOR: James R. Melinson 
 EXPERTS: Not published 
 ATTORNEYS: Alan M. Feldman, Daniel J. Mann and Edward S. Goldis, Feldman Shepherd Wohlgelernter Tanner Weinstock & Dodig, Philadelphia, PA for the plaintiff, Chester A. Dudzinski, Salvatore Vilardi and Judith A. Moses, Cipriani & Werner, Philadelphia, PA for the defendant INJURED PARTIES: Two adult males and one adult female 
 EVENT: The plaintiff driver was stopped in traffic due to road construction wher her vehicle was struck in the rear by a tractor-trailer traveling more than 70. mpu: The plaintiff father of the driver was in front of the vehicle and died in the cras and the plaintiff husband was in the rear of the vehicle 
@@ -10320,10 +10359,13 @@ PERTINENT INFORMATION: The plaintiff claimed past medical expenses of $259,000, 
 ----------
 AMOUNT: $4,200,000 (Skagit Co., WA) 
 CASE: Jennifer, Jason and Jack Mancil v. Skagit Valley Hosp., et al, 2015 WA Jury Verdicts & Sett. LEXIS 66 (April 30, 2014) 
-CASE NUMBER: 12-2-00857-7 MEDIATOR: Tom Harris 
+CASE NUMBER: 12-2-00857-7 
+MEDIATOR: Tom Harris 
 EXPERTS: Dr. Clifford Deveney, bariatric surgeon, Portland, OR, Dr. Michael Federle, radiologist, Stanford, CA, Dr. John Keats, ob/gyn, Phoenix, AZ, Dr. John Knudsen, ob/gyn, Mount Vernon, WA, Dr. James McGough, psychiatrist/auuso Los Angeles, CA; Dr. Tracy Spencer, internal Medicine, Everett, WA, Rebecca Bellerive, life care planner, Gig Harbor, WA, John Fountaine, vocationa. rehabilitation, Bothell, WA for the plaintiff; Dr. Jonathan Berlin, radiologis Chicago IL, Dr. R. Mize Conner, ob/gyn, Issaquah, WA, Dr. Theodore Dubinsky: radiologist, Seattle, WA, Dr. Martin Durtschi, general surgeon, Seattle, WA, D Alvin Elisco, internal medicine, Phoenix, AZ, Dr. Steven Glass, pediata neurologist, Bothell, WA, Dr. William Hope, general surgeon, Wilmington, N Dr. Michael Katz, ob/gyn, San Francisco, CA, Dr. Gordon Moss, inter medicine, Farmington Hills, MI, Dr. Michael Stevens, internal medicine, Scom dale, AZ, Dr. Steven Peikin, gastroenterologist, Mount Laurel, NJ, Dr. Stuart, internal medicine, Kirkland, WA, Linda Olzack, life care planner, Atwater CA, Cindy Sayre RN, Seattle, WA for the defendants 
-ATTORNEYS: Reed Schifferman, Seattle, WA for the plaintiff; Jennifer Moore, Bennett Bigelow & Leedom. Donna Moniz, Johnson Graffe Keay Moniz & WILA Rebecca Ringer of Floyd Pflueger & Ringer, Seattle, WA for the defendants INIURED PARTIES: 29 year old female nurse and her infant son 
-EVENT: Plaintiff developed a small bowel obstruction when she was 27 weeks pregnant and was admitted to defendant hospital. The hospital did not notify plaintiff's obstetrician The delay in diagnosing the bowel obstruction led to necrosis of the plaintiff's bowel and preterm delivery SPECIFIC INJURIES: Abdominal and bowel injuries; Post traumatic stress disorder; developmental delay autism spectrum 
+ATTORNEYS: Reed Schifferman, Seattle, WA for the plaintiff; Jennifer Moore, Bennett Bigelow & Leedom. Donna Moniz, Johnson Graffe Keay Moniz & WILA Rebecca Ringer of Floyd Pflueger & Ringer, Seattle, WA for the defendants 
+INIURED PARTIES: 29 year old female nurse and her infant son 
+EVENT: Plaintiff developed a small bowel obstruction when she was 27 weeks pregnant and was admitted to defendant hospital. The hospital did not notify plaintiff's obstetrician The delay in diagnosing the bowel obstruction led to necrosis of the plaintiff's bowel and preterm delivery 
+SPECIFIC INJURIES: Abdominal and bowel injuries; Post traumatic stress disorder; developmental delay autism spectrum 
 PERTINENT INFORMATION: Settlement included $3,000,000 in medical expenses and $91,000 in lost wages 
 ----------
 AMOUNT: $3,500,000 (WA)/ 
@@ -11264,7 +11306,8 @@ PERTINENT INFORMATION: The case was settled before the trial. The defendant hosp
 ----------
 AMOUNT: $750,000 (Multnomah Co., OR) 
 CASE: Solis v. Heather Park Development, LLC. 2014 Ore Jury V Men, LLC, 2014 Ore. Jury Verdicts & Sett. LEXIS 70 (April 18, 2014) 
-CASE NUMBER: 1302-01698 MEDIATOR: Michael McClinton 
+CASE NUMBER: 1302-01698 
+MEDIATOR: Michael McClinton 
 EXPERTS: Dr. Niknam Eshraghi, general surgeon, Portland, OR. Timothy Bulls fireman. Tigard, OR, Gregory Wong, fire causation/origin. Portland, OR for me plaintiff; name of the defendant's expert not published 
 ATTORNEYS: Timothy Vanagas, Portland, OR for the plaintiff; Jeffrey Hansen of Smith Freed & Eberhard, Portland, OR for the defendant 
 INJURED PARTY: 41 year old male.... 
@@ -11894,7 +11937,8 @@ PERTINENT INFORMATION: The parties settled prior to trial. The plaintiff made a 
 ----------
 AMOUNT: $435,000 (Bergen Co., NJ) 
 CASE: Kane v. DeBoer, 2012 NJ Jury Verdicts Review LEXIS 150 (June 19. 
-CASE NUMBER: BER-L-4681-10 MEDIATOR: Mark Eps 
+CASE NUMBER: BER-L-4681-10 
+MEDIATOR: Mark Eps 
 EXPERTS: Kenneth Kutner, PhD (neuropsychology) Hackensack, NJ for the plaintiff; name of the defendant's expert not published name of the defendant's attorney not 
 ATTORNEYS: Robert B. Linder; James Pocchia of Law Offices of Robert B. Linder. Englewood, NJ for the plaintiff; name of the defendant's att 
 INJURED PARTY: 67 year old male 
@@ -11956,7 +12000,8 @@ PERTINENT INFORMATION: The parties settled prior to trial for $950,000 01 the de
 ----------
 AMOUNT: $712,500 (Middlesex Co., NJ) 
 CASE: Costello v. Clairidge Court Association, 2013 NJ Jury Verdicts Review LEXIS 231 (August 2013) 
-CASE NUMBER: MID-L-5724-11 MEDIATOR: Mark Epstein 
+CASE NUMBER: MID-L-5724-11 
+MEDIATOR: Mark Epstein 
 EXPERTS: Ronald Saxon, PE (engineer) Port Murray, NJ, Dr. Haodong Song (neurology) Old Bridge, NJ, Brett Prince PhD (neuropsychology) Neptune, Dr. Cary Skolnick (orthopedics) Manalapan, NJ for the plaintiff; name of defendant's experts not published 
 ATTORNEYS: Robert M. Adochio of Law Offices of Robert M. Adochio, Brunswick, NJ for the plaintiff; name of the defendant's attorney not publis 
 INJURED PARTY: 32 year old female 
@@ -12121,8 +12166,8 @@ SPECIFIC INJURY: Traumatic closed head injury with .post-concussion syn drome; m
 PERTINENT INFORMATION: The award included $2,500,000 in damages to the plaintiff and $500,000 to the plaintiff's wife for loss of consortium 
 ----------
 AMOUNT: $2,620,000 (Philadelphia Co., PA) 
-CASE: McLees v. Defendants, 2015 PA Jury Verdicts Review LEXIS 38 (March 
-CASE NUMBER: 12-10-02798 .". . 
+CASE: McLees v. Defendants, 2015 PA Jury Verdicts, Review LEXIS 38 (March 8, 2015)  
+CASE NUMBER: 12-10-02798 
 JUDGE: Leon W. Tucker 
 EXPERTS: Kevin O'Connor, accident reconstruction, Phoenixville, PA, Joseph Nicolo. Audubon, PA, Andrew Verzilli, economics, Lansdale, PA, Alex Karras. life care. Malvern. PA,: Brenda M. Ivker, neuropsychology, Philadelphia, PA, Guy W. Fried, pain management, management, Philadelphia, PA for the plaintiff; name of the defendant's expert not published 
 ATTORNEYS: Kevin R. Marciano and Patrick D. MacAvoy of Marciano & MacAvoy, Media, PA for the plaintiff; name of the defendant's attorney not published 
@@ -12164,7 +12209,8 @@ PERTINENT INFORMATION: The plaintiff's husband made a loss of consor tium claim
 AMOUNT: $1,258,334 (Pierce Co., WA) 
 CASE: Hernandez v. Guadino, et al., 2015 WA Jury Verdicts & Sett. LEXIS 408 (July 10, 2015) 
 CASE NUMBER: 14-2-06598-7 
-JUDGE: Elizabeth Martin MEDIATOR: Paris Kallas FYPFDTS. Dr Stephen Glass, pediatric neurologist, Bothell, WA, Dr. Jonathan Ritson physiatrist Gig Harbor, WA, Dr. Kevin Yuen, endocrinologist, Seattle. WA, Brad Powell Ph.D., psychologist, Olympia, WA, Theodore Becker Ph.D., physical capacities, Everett, WA, Anthony. Choppa, vocational rehabilitation, Bothell, WA, Christina Tapia Ph.D., economist, Bothell, WA for the plaintiff; Dr. William Likosky, neurologist, Seattle, WA, Dr. Bradley Anawalt, endocrinologist, Bellevue, WA, Dr. Michael Battaglia, orthopedic surgeon, Bellevue, WA, Alan Breen Ph.D., neuropsychologist, Seattle, WA, Barbara Berndt, vocational reha bilitation, Tacoma, WA, William Partin, economist, Bellevue; WA for the defendant 
+JUDGE: Elizabeth Martin 
+MEDIATOR: Paris Kallas FYPFDTS. Dr Stephen Glass, pediatric neurologist, Bothell, WA, Dr. Jonathan Ritson physiatrist Gig Harbor, WA, Dr. Kevin Yuen, endocrinologist, Seattle. WA, Brad Powell Ph.D., psychologist, Olympia, WA, Theodore Becker Ph.D., physical capacities, Everett, WA, Anthony. Choppa, vocational rehabilitation, Bothell, WA, Christina Tapia Ph.D., economist, Bothell, WA for the plaintiff; Dr. William Likosky, neurologist, Seattle, WA, Dr. Bradley Anawalt, endocrinologist, Bellevue, WA, Dr. Michael Battaglia, orthopedic surgeon, Bellevue, WA, Alan Breen Ph.D., neuropsychologist, Seattle, WA, Barbara Berndt, vocational reha bilitation, Tacoma, WA, William Partin, economist, Bellevue; WA for the defendant 
 ATTORNEYS: Colleen Durkin Peterson, Holman Law, Tacoma, WA for the plaintiff; James Bulthuis of Clement & Drotz, Courtney Robinson of Betts Patterson Mines, Seattle, WA for the defendants 
 INJURED PARTY: 16 year old female . 
 EVENT: The plaintiff was a passenger in a vehicle that was struck in a T-bone collision 
@@ -12173,7 +12219,8 @@ PERTINENT INFORMATION: The parties settled for the defendants' policy limits
 ----------
 AMOUNT: $1,000,000 (Thurston Co., WA) 
 CASE: Jamie Crossland v. Yelm Prarie Dental, 2014 WA Jury Verdicts & Sert LEXIS 194 (June 16, 2014) 
-CASE NUMBER: 13-2-00145-1 MEDIATOR: Tom Harris 
+CASE NUMBER: 13-2-00145-1 
+MEDIATOR: Tom Harris 
 EXPERTS: Michael Martin DMD Ph.D., oral medicine, Seattle, WA, Mark Drangsholt DDS Ph.D., oral medicine, Seattle, WA, Paul Torelli Ph.D., economist, Seattle, WA, Martha Glisky Ph.D., neuropsychologist, Bellevue, WA, Close Johnson, vocational rehabilitation, Bothell, WA, Jane Vaccaro RN, life care planner, Gig Harbor, WA, Jennifer MacGregor Stowell, mental health counselol, Silverdale, WA for the plaintiff; Dr. Robert Myall, oral surgeon, Portland, ON, Peter van der Ven DMD, oral medicine for the defendant 
 ATTORNEYS: Jane Morrow of Otorowski Johnston Morrow & Golden, Bali bridge Island, WA for the plaintiff; John Versnel of Lee Smart, Seattle, WA for the defendant 
 INJURED PARTY: 33 year old Navy veteran, sales/educational consultant 
@@ -12578,7 +12625,8 @@ SPECIFIC INJURY: Temporary closed head injury; concussion; right shoulder, cervi
 ----------
 AMOUNT: $1,100,000 (Door Co., WI) 
 CASE: Strege, et al. v. Rural Mutual Ins. Co., et al., 2015 WI Jury Verdicts & Sett. LEXIS 4 (Dec. 2014) ... ... : 
-CASE NUMBER: 11 CV 22 MEDIATOR: Peter Diltz 
+CASE NUMBER: 11 CV 22 
+MEDIATOR: Peter Diltz 
 EXPERTS: Dr. Richard Heckert, ophthalmologist, Green Bay, WI, Mariellen Fisher, Ph.D., a neuropsychologist, Wauwatosa, WI, Dr. Steven Weinshel. neurosurgeon. Green Bay, WI, Dr. Scott Robinson, O.D., Optometry Milwaukee, WI. Kevin Schutz, M.S., vocational, Madison, WI for the plaintiff: Dr. Richard Colan, neurologist, Oak Creek, WI, Robert Newby, Ph.D., neutop sychologist. Milwaukee, WI, Dr. Eli Peli, O.D., optometrist, Boston, MA. Dr. Joseph Rizzo, III, ophthalmologist, Boston, MA, Timothy Riley, vocational expert, Milwaukee, WI for the defendant 
 ATTORNEYS: Ralph J. Tease, Jr, of Habush & Rottier Green Bay, WI for the plaintiff; William R. Wick of Nash, Spindler, Grimstad & McCracken, Manito woC, WI for the defendant 
 INJURED PARTY: 7 month old' male 
@@ -12901,7 +12949,8 @@ PERTINENT INFORMATION: The parties settled prior to trial
 ----------
 AMOUNT: $3,500,000 (WA) 
 CASE: Plaintiff v. Defendant Doctor and Clinic, 2014 WA Jury Verdicts & Sett. LEXIS 132 (March 27, 2014) 
-CASE NUMBER: Not published MEDIATOR: Tom Harris 
+CASE NUMBER: Not published 
+MEDIATOR: Tom Harris 
 EXPERTS: Dr. Joel Erickson, cardiologist, Santa Rosa CA, Dr. Karyl Van Benthuysen, cardiologist, Littleton, CO, Dr. John MacGregor, cardiologist, San Francisco, CA, Dr. Robert Wohlman, gastroenterologist, Bellevue, WA, JO Fountaine, vocational rehabilitation, Christina Tapia Ph.D., economist, Bothell, WA for the plaintiff; name of the defendant's expert not published 
 ATTORNEYS: Tyler Golberg, Hoss & Gene Moen of Chemnick Moen Green street, Seattle, WA for the plaintiff; name of the defendant's attorney ņot published 
 INJURED PARTY: Adult male firefighter 
@@ -13332,7 +13381,8 @@ PERTINENT INFORMATION: The parties settled prior to trial
 ----------
 AMOUNT: $1,000,000 (Somerset Co., NJ) 
 CASE: Ramos v. Lucash Montgomery Builders, LLC, et al., 2013 NJI Verdicts Review LEXIS 156 (June 25, 2013) 
-CASE NUMBER: SOM-L-1372-10 MEDIATOR: Jack Lint 
+CASE NUMBER: SOM-L-1372-10 
+MEDIATOR: Jack Lint 
 EXPERTS: Not published 
 ATTORNEYS: Peter Chamas of Gill & Chamas, Woodbridge, NJ for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 29 year old male 
@@ -13893,7 +13943,8 @@ EVENT: As she was crossing the street, a “box truck" driven by the de struck t
 SPECIFIC INJURY: Fractured clavicle and eight ribs: Fractured sacrum/co i i :::; .::..*!;. , . ii... 
 ----------
 AMOUNT: $500,000 (Multiromah Co., OR) 
-CASE: Robert Skof. v. Kirk Hanna, 2012 Ore. Jury. Verdicts & Sett. LEXIS 120 (May 15, 2012) CASE NUMBER; Not published p r i Stir I. MEDIATOR: Stephen Piucci 
+CASE: Robert Skof. v. Kirk Hanna, 2012 Ore. Jury. Verdicts & Sett. LEXIS 120 (May 15, 2012) CASE NUMBER; Not published p r i Stir I. 
+MEDIATOR: Stephen Piucci 
 EXPERTS: Dr. Robert Cook (orthopedic surgeon) Lake Oswėgo, OR, Dr. Kevin Murphy (orthopedic surgeon) Wilsonville, OR for the plaintiff; name. of the defendant's expert not published 
 ATTORNEYS: Sean DuBois of Shulman DuBois, Portland, OR for the plaintiff: Raymond Rask of Brownstein Rask Sweeney Kerr Grim DeSylvia & Hav: Martin Rall of Lachenmeier Enlọe Rall & Heinson, Portland, OR for the defendant 
 INJURED PARTY: 45 year old male construction worker EVENT. The defendant's vehicle struck the plaintiff as he was riding his bicycle The defendant fled the scene and pled guilty to hit and run and driving under the influence (DUI) ;'. 
@@ -13912,7 +13963,8 @@ PERTINENT INFORMATION: The case was settled for $240,000 from the first defendan
 ----------
 AMOUNT: $1,000,000 (Grays Harbor Co., WA) 
 CASE: Melissa and Rob Peller v. Booco Construction, Inc., 2015 WA Jury Verdicts & Sett. LEXIS 14 (Oct. 24, 2014) 
-CASE NUMBER: 13-2-00189-2: MEDIATOR: Gary Bloom 
+CASE NUMBER: 13-2-00189-2: 
+MEDIATOR: Gary Bloom 
 EXPERTS: Dr. Stephen Snow, orthopedic surgeon, Dr. Rex Bolin, pulmonolo gist, Olympia, WA, Gregory Dorris Ph.D., psychologist, Olympia, WA, Anthony Choppa, (Vocational Rehabilitation, Bothell, WA, Christina Tapia Ph.D., Ecom mist, Bothell, WA, Richard Gill Ph.D., Human Factors, Spokane, WA, M. Lawless, Safety, Seattle, WA for the plaintiff, Dr. Thomas Carlsen, Orthopean Surgeon, Bend OR, John Bolig, Architect, Seattle, WA for the defendant 
 ATTORNEYS: Ray Kahler & Keith Kessler of Stritmatter Kessler Whe Hoquiam, WA, Elizabeth Knight, Knight Lawyers, Tumwater, WA to plaintiff; Joseph Traylor & Holly Pettit of Hart Wagner, Portland, OR for " defendant 
 INJURED PARTY: 32 year old female 
@@ -14515,7 +14567,8 @@ PERTINENT INFORMATION: The damages included medical expenses $135,409
 ----------
 AMOUNT: $500,000 (Multnomah Co., OR) 
 CASE: Robert Skof v. Kirk Hanna, 2012 Ore. Jury Verdicts & Sett. LEXIS !! (May 15, 2012) 
-CASE NUMBER: Not published MEDIATOR: Stephen Piucci 
+CASE NUMBER: Not published 
+MEDIATOR: Stephen Piucci 
 EXPERTS: Dr. Robert Cook (orthopedic surgeon) Lake Oswego, OR, Dr. Murphy (orthopedic surgeon) Wilsonville, OR for the plaintiff; name of defendant's expert not published ; 
 ATTORNEYS: Sean DuBois of Shulman DuBois, Portland, OR for the pia Raymond Rask of Brownstein Rask Sweeney Kerr Grim DeSylvia & Hay; Na Rall of Lachenmeier Enloe Rall & Heinson, Portland, OR for the defendant 
 INJURED PARTY: 45 year old male construction worker 
@@ -14789,7 +14842,8 @@ PERTINENT INFORMATION: The award included $5.000 in or
 ----------
 AMOUNT: $1,000,000 (Thurston Co., WA) 
 CASE: Jamie Crossland v. Yelm Prarie Dental, 2014 WA Jury, Verdicts & Sett. LEXIS 194 (June 16, 2014). 
-CASE NUMBER: 13-2-00145-1 MEDIATOR: Tom Harris 
+CASE NUMBER: 13-2-00145-1 
+MEDIATOR: Tom Harris 
 EXPERTS: Michael. Ma 
 ATTORNEYS: lane Morrow of Otorowski Johnston M. IN UPED PARTY: 33 year old Navy veteran, salesledu 
 EVENT: The plaintiff suffered an injury to her to permanent condition of trigeminal neuropathic pain fr three wisdom teeth 
@@ -14893,7 +14947,8 @@ PERTINENT INFORMATION: The passenger's case settled for $425,000,
 ----------
 AMOUNT: $1,250,000 (Burlington Co., NJ)" 
 CASE: LaGrange v. Fee, et al., 2013 NJ Jury Verdicts Review LEXİS 209 (August 2013) 
-CASE NUMBER: BUR-L-2894-11 MEDIATOR: Charles R. Previti 
+CASE NUMBER: BUR-L-2894-11 
+MEDIATOR: Charles R. Previti 
 EXPERTS: Michael Robinson, DC (chiropractic) Linden, NJ, Ellen Rader Smith n Evan Lide of Stark & Stark, Lawrenceville, 
 ATTORNEYS: J. Robert Bratman, Evan Lide of Stark B ame of the defendant's attorney not published. NJ for the plaintiff; name of the defendant's attomey 
 INJURED PARTY: Male in his early 40s ully loaded tractor-trailer struck the plaintiff's 
@@ -14933,7 +14988,8 @@ SPECIFIC INJURY: Wrist, knee, elbow, and neck injuries; Complex Regional Pain Sy
 ----------
 AMOUNT: $712,500 (Middlesex Co., NJ). 
 CASE: Costello v. Clairidge Court Association, 2013 NJ Jury Verdicts Review LEXIS 231 (August 2013) 
-CASE NUMBER: MID-L-5724-11 MEDIATOR: Mark Epstein 
+CASE NUMBER: MID-L-5724-11 
+MEDIATOR: Mark Epstein 
 EXPERTS: Ronald Saxon, PE (engineer) Port Murray Dr. Cary Skolnick (orthopedics), Manalapan, NIE defendant's experts not published 
 ATTORNEYS: Robert M. Adochio of Law Of Brunswick, NJ for the plaintiff; name of the defe 
 INJURED PARTY: 32 year old female 
@@ -14965,7 +15021,8 @@ PERTINENT INFORMATION: The parties. settled prior to trial for the defendant's p
 ----------
 AMOUNT: $1,000,000 (Somerset Co., NJ) 
 CASE: Ramos v. Lucash Montgomery Builders, LLC, et al., 2013, NJ Jury Verdicts Review LEXIS 156 (June 25, 2013) 
-CASE NUMBER: ŞOM-L-1372-10 MEDIATOR: Jack Lint 
+CASE NUMBER: ŞOM-L-1372-10 
+MEDIATOR: Jack Lint 
 EXPERTS: Not published : 
 ATTORNEYS: Peter Chamas of Gill & Chamas, Woodbridge, NJ for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 29 year old male all from a scaffold while working for a subcontractor at a 
@@ -15069,7 +15126,7 @@ SPECIFIC INJURY: Neck injury; Incomplete spinal cord injury 3-column complete fr
 PERTINENT INFORMATION: The damages included medic $262,934 
 ----------
 AMOUNT: $2,620,000 (Philadelphia Co., PA) 
-CASE: McLees v. Defendants, 2015 PA Jury Verdicts Rev 
+CASE: McLees v. Defendants, 2015 PA Jury Verdicts, Review LEXIS 38 (March 8, 2015)  
 CASE NUMBER: 12-10-02798 
 JUDGE: Leon W. Tucker 
 EXPERTS: Kevin O'Connor, accident rec Nicolo, Audubon, PA, Andrew Verzilli, economics, Lansdale, PA, Alex Karras, life care, Malvern, PA,: Brenda M. Ivker; neuropsychology, Philadelphia, PA, Guy W. Fried, pain management, Philadelphia, PA, for the plaintiff; name of the defendant's expert not published 
@@ -15098,7 +15155,8 @@ EXPERTS: George Govatos (accident reconstruction), Charlestown, MD, David Hopkin
 EVENT: The plaintiffs were passengers on a school bus that collided with a tractor-trailer SPECIFIC INJURIES: 
 ----------
 AMOUNT: $500.000 (U.S., Dist. Gt., W.D: WA).. CASE, Russell. Bins v. United States of America, 2014 WA Jury Verdicts LEXIS 39 (June 26, 2013) 
-CASE NUMBER: C12-1388 RSM MEDIATOR: Gregory Bertram 
+CASE NUMBER: C12-1388 RSM
+MEDIATOR: Gregory Bertram 
 EXPERTS: Dr. Daniel Nebls. (neurosurgeon) Taco management/occupational medicine) Silverdale. WA Puyallup, WA, Doug McDaniel (economist). Virtaj Singh (pain management/rehabilitation) Se 
 ATTORNEYS: Thomas B. Vertetis & Elizabeth Ca Amala, Tacoma, WA for the plaintiff; Patricia Gi Tacoma, WA for the defendant: 
 INJURED PARTY: 57 year old male 
@@ -15108,7 +15166,8 @@ PERTINENT INFORMATION: The parties settled for $500,000. The plaintiff had medic
 ----------
 AMOUNT: $1,650,000 (King Co., WA) 
 CASE: Maria Kavran v. Ean Holdings, LLC, 2014 WA Jury Verdicts & Selt. LEXIS 259 (Sept. 6, 2014) 
-CASE NUMBER: 13-2-26393-9 MEDIATOR: Charles Burdell 
+CASE NUMBER: 13-2-26393-9 
+MEDIATOR: Charles Burdell 
 EXPERTS: Dr. Varun Laohaprasit, neurosurgeon, Bellevue. WA, Dr. La Geere, family practice, Renton, WA, John Berg, vocational rehabilitation, de WA, William Brandt, economist, Bainbridge Island, WA, Cloie. Johnson, lite ca planner, Bothell, WA for the plaintiff; Dr. Steven Klein, neurosurgeon, Seals WA, Neil Beaton CPA. Accountant, Seattle, WA for the defendant 
 ATTORNEYS: James Gooding & Scott Shawver of Graham Lundberg Pescu, Seattle, WA for the plaintiff; Paul Crowley of Lockner & Crowley, Tacoma, "! for the defendant 
 INJURED PARTY: 54 year old female administrative assistant 
@@ -15157,16 +15216,21 @@ ATTORNEYS: Ronald Unger of Buckley & Associates, Seattle, WA plaintiff: Vivianne
 INJURED PARTY: 53 year old male construction worker 
 EVENT: The defendant's vehicle struck the plaintiff's truck, which was pa the side of the road 
 SPECIFIC INJURY: Neck injury; disc herniation; Wrist injury 
-PERTINENT INFORMATION: The settlement included $50,000 policy limits and $475,000 UIM limits AMQUNT: $400,000 (Snohomish Co., WA) 
+PERTINENT INFORMATION: The settlement included $50,000 policy limits and $475,000 UIM limits 
+----------
+AMOUNT: $400,000 (Snohomish Co., WA) 
 CASE: Kati and Marcus' Phipps v. Matthew Stickney, Jane Doe Stickney, Lawrence Stickney, Pollyanna Stickney and David Stickney, 2012 WA Jury Verdicts & Sett. LEXIS 133 (Mar. 16, 2012) 
-CASE NUMBER: 11-2-00817-8 l . MEDIATOR: Thomas V. Harris,. ... . ....... ...... 
+CASE NUMBER: 11-2-00817-8 l  
+MEDIATOR: Thomas V. Harris
 EXPERTS: Dr. Kaj Johansen (vascular surgeon), Dr. Phil Haeck (plastic surgeon) Seattle, WA, John Berg (vocational rehabilitation) Seattle, WA, Bill Brandt (economist) Bainbridge Island, WA, Michael Freeman Ph.D. (epidemiologist accident reconstructionist) Portland OR, Mark Olson (vehicle damage) Seattle, WA' for the plaintiff;'Dr. Lawrence Murphy (neurologist) Seattle, WA, Trevor Newbery (mechanical engineer) Mountlake Terrace, WA for the defendant, AUTOPNEYS: John D. Webber & Cydney Campbell Webster of Graham Lundberg & Peschel, Seattle, WA for the plaintiff; Gary Western of Wilson' Smith Cochran Dickerson, Matthew Kennedy, Mary E. Owen & Associates: ĪJ. Hütsön Law Offices of Kelley J. Sweeney, Seattle, WA for the defendant, . 
 INJURED PARTY: 28 year old female bookkeeper H . EVEN. The plaintiff alleged that the defendant failed to yield the right-of-wav and made a left turn striking the front passenger corner of the plaintiff's vehicle 
 SPECIFIC INJURY: Disc protrusions at C5-6 and C6-7; Neck, injury 
 ----------
 AMOUNT: $575,000 (Spokane Co., WA) casr. Arlin Hudson and Amy Hudson' v. Elizabeth McLellan and Sister of the Holy Name, 2013 WA Jury Verdicts & Sett. LEXIS 35 (Nov. 30, 2012) 
-CASE NUMBER: 11-2-00337 ini. ;?... ... 
-JUDGE: Maryann Morenog MEDIATOR: Gary Bloom in TYPERTS: Dr. Dean Martz (neurosurgeon) Spokane, WA for the plaintiff. De ames Gooding & Janelle Carney of Graham Lundberg & 
+CASE NUMBER: 11-2-00337 ini.
+JUDGE: Maryann Morenog 
+MEDIATOR: Gary Bloom in 
+EXPERTS: Dr. Dean Martz (neurosurgeon) Spokane, WA for the plaintiff. De ames Gooding & Janelle Carney of Graham Lundberg & 
 ATTORNEYS: James Gooding & Janelle WA for the plaintiff; Michael Ramsden of Ramsden & Lyons, Peschel, Spokane, WA for the plaintiff: Micha Coeur d'Alene, ID for the defendant 
 INJURED PARTY: 63 year old retired male falleged that the defendant ran a red light at an intersection, 
 EVENT: The plaintiff alleged that the defendant striking his vehicle in a "t-bone” collisior 
@@ -15184,17 +15248,18 @@ SPECIFIC INJURY: Knee injury requiring arthroplasty; Neck injury's. :
 ----------
 AMOUNT: $1,000,000 (Thurston Co., WA) 
 CASE: Jamie Crossland v. Yelm Prarie Dental, 2014 WA Jury Verdicts a LEXIS 194 (June 16, 2014), 
-CASE NUMBER: 13-2-00145-1 MEDIATOR: Tom Harris 
+CASE NUMBER: 13-2-00145-1 
+MEDIATOR: Tom Harris 
 EXPERTS: Michael Martin DMD Ph.D., oral medicine, Seattle, WA Drangsholt DDS Ph.D., oral medicine, Seattle, WA, Paul Torelli Ph.D., econo, Seattle, WA, Martha Glisky Ph.D., neuropsychologist, Bellevue, WA, Johnson, vocational rehabilitation, Bothell, WA, Jane Vaccaro RN, 111 planner, Gig Harbor, WA, Jennifer MacGregor Stowell, mental health cow Silverdale, WA for the plaintiff; Dr. Robert Myall, oral surgeon, Portlar Peter van der Ven DMD, oral medicine for the defendant 
 ATTORNEYS: Jane Morrow, of Otorowski Johnston Morrow & Golden, bridge Island, WA for the plaintiff; John Versnel of Lee Smart, Seattle, WA to defendant 
 INJURED PARTY: 33 year old Navy veteran, sales/educational consulta 
 EVENT: The plaintiff suffered an injury to her trigeminal nerve an permanent condition of trigeminal neuropathic pain following the remo three wisdom teeth 
 SPECIFIC INJURY: Dental and trigeminal nerve injuries; trigeminal pathic pain and occipital neuralgia 
-PERTINENT INFORMATION: The plaintiff claimed lost wages of $8,000,000 and is permanently disabled .. . ? ... . . . :: 
+PERTINENT INFORMATION: The plaintiff claimed lost wages of $8,000,000 and is permanently disabled
 ----------
 AMOUNT: $250,000 (Thurston Co., WA) 
 CASE: Leah Cox v. Heidi Gauthier, 2013 WA Jury Véfdicts & Sett. LEXIS 136 (May 1, 2013) 
-CASE NUMBER: 11-2-02241-0... ....... . 
+CASE NUMBER: 11-2-02241-0
 JUDGE: Not published 
 EXPERTS: Dr. Jos Cove (neurosurgeon) Tacoma, WA, Kathleen Alves ARNP (nurse practitioner) Lacey, WA for the plaintiff; Dr. Karl Goler (neurosurgeon) · Bellevue, WA for the defendant 
 ATTORNEYS: Viivi Vanderslice, Bernard Law Group, Seattle, WA for the .. . i 
@@ -15729,7 +15794,8 @@ SPECIFIC INJURY: Nasal scarring
 AMOUNT: $1,258,334 (Pierce Co., WA) 
 CASE: Hernandez v. Guadino, et al., 2015 WA Jury Verdicts & Sett. LE. (July 10, 2015) 
 CASE NUMBER: 14-2-06598-7 
-JUDGE: Elizabeth Martin MEDIATOR: Paris Kallas 
+JUDGE: Elizabeth Martin 
+MEDIATOR: Paris Kallas 
 EXPERTS: Dr. Stephen Glass, pediatric neurologist, Bothell, WA, D Ritson, physiatrist, Gig Harbor, WA, Dr. Kevin Yuen, endocrinologis WA, Brad Powell Ph.D., psychologist, Olympia, WA, Theodore Beck physical capacities, Everett, WA, Anthony Choppa, vocational rena Bothell, WA, Christina Tapia Ph.D., economist, Bothell, WA for the pa William Likosky, neurologist, Seattle, WA, Dr. Bradley Anawalt, end Bellevue, WA, Dr. Michael Battaglia, orthopedic surgeon, Bellevue Breen Ph.D., neuropsychologist, Seattle, WA, Barbara Berndt:: Vocational reha bilitation, Tacoma, WA, William Partin, economist, Bellevue, WA, for the defendant 
 ATTORNEYS: Colleen Durkin Peterson, Holman Law, Tacoma, WA for the plaintiff; James Bulthuis of Clement & Drotz, Courtney Robinson of Betts Patterson Mines, Seattle, WA for the defendants .:;... . 
 INJURED PARTY: 16 year old female 
@@ -16064,7 +16130,9 @@ PERTINENT INFORMATION: The owner of the ili .
 ----------
 AMOUNT: $1,500,000 (Passaic Co., ŅJ) Pyramid Enterprises, et al., 2012 NJ Jury Verdicts Review 
 CASE: Collentine v. Pyramid Enterprises, et al., 2012 LEXIS 202 (May 1, 2012) 
-CASE NUMBER: PAS-L-5182-10 MEDIATOR: Daniel P. Mecca TYDEPTS: Robert Adams (engineering/OSHA), Dr. Aresh Emami forth va William A. Krais of Porzio, Bromberg & Newman PC 
+CASE NUMBER: PAS-L-5182-10 
+MEDIATOR: Daniel P. Mecca 
+EXPERTS: Robert Adams (engineering/OSHA), Dr. Aresh Emami forth va William A. Krais of Porzio, Bromberg & Newman PC 
 ATTORNEYS: William A. Krais of Porzio Morristown NI for the plaintiff; name of the defendant's attor 
 INJURED PARTY: 45 year old male carpenter 
 EVENT: While working at a supermarket constructio 30 feet to the ground below 
@@ -16173,7 +16241,8 @@ PERTINENT INFORMATION: The plaintiff claimed medical $136,000 and lost wages of 
 AMOUNT: $1,258,334 (Pierce Co., WA) av Guadino, et al., 2015 WA Jury Verdicts & Sett. LEXIS 408 
 CASE: Hernandez v. Guadino, et al., 2015 WA Jury Verdie (July 10, 2015) 
 CASE NUMBER: 14-2-06598-7 
-JUDGE: Elizabeth Martin MEDIATOR: Paris Kallas 
+JUDGE: Elizabeth Martin 
+MEDIATOR: Paris Kallas 
 EXPERTS: Dr. Stephen Glass, pediatric neurologist. Both Ritson, physiatrist, Gig Harbor, WA, Dr. Kevin Yu Partin, economist, Bellevue, WA, for the bilitation, Tacoma, WA, William defendant 
 ATTORNEYS: Colleen Durkin Peterson. Holman plaintiff; James Bulthuis of Clement & Drotz. Con Patterson Mines, Seattle, WA for the defendants 
 INJURED PARTY: 16 year old female 
@@ -16483,7 +16552,8 @@ PERTINENT INFORMATION: The settlemen plaintiff and $700,000 each to the other tw
 ----------
 AMOUNT: $1,250,000 (Burlington Co., NJ) 
 CASE: LaGrange v. Fee, et al., 2013 NJ Jury Verdicts Review LEXIS 20% (August 2013) 
-CASE NUMBER: BUR-L-2894-11 MEDIATOR: Charles R. Previti 
+CASE NUMBER: BUR-L-2894-11 
+MEDIATOR: Charles R. Previti 
 EXPERTS: Michael Robinson, DC (chiropractic) Linden, NJ, Ellen Rader Smu (functional capacity evaluator) Montville, NJ, Dr. Luis Cervante (neurosurge? Moorestown, NJ, Dr. John Cifelli (neurosurgery) Union, NJ, Dr. John Bu management), Robert Wolf, Ed.D., MBA (vocational-economic loss evas Cherry Hill, NJ for the plaintiff; Kirk Thibault, PhD (biomechanical engine Philadelphia, PA, Dr. Howard Levin (neurological) Philadelphia, PA Lawler, PhD (neuropsychological) Philadelphia, PA, Dr. Roy Friede (orthopedic) Hammonton, NJ, Dr. Michael Bercick (orthopedic surgery) ! beth, NJ, Laurie Havasi (vocational) for the defendant , : 
 ATTORNEYS: J. Robert Bratman, Evan Lide of Stark & Stark, Lawrencev NJ for the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: Male in his early 40s 
@@ -16564,7 +16634,8 @@ PERTINENT INFORMATION: The settlement included $7,100,000 physician's $1,000,000
 ----------
 AMOUNT: $425,000 (Passaic Co., NJ) 
 CASE: Cooper v. Eagle Roofing and Chimneys, 2015 NJ Jury Verdicts LEXIS 249 (October 16, 2015) 
-CASE NUMBER: PAS-L-1364-14 MEDIATOR: Eugene J. Cody 
+CASE NUMBER: PAS-L-1364-14 
+MEDIATOR: Eugene J. Cody 
 EXPERTS: Not published 
 ATTORNEYS: Timothy J. Fonseca of Corradino & Papa, LLC, CM the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 76 year old male 
@@ -16754,7 +16825,8 @@ SPECIFIC INJURY: Emotional distress
 ----------
 AMOUNT: $3,000,000 (U.S. District Court, ED WA) 
 CASE: Juliet Marx v. State of Washington, Department of Social al Services, Eastern State Hospital, Harold Wilson, Dr. Lesley Blake, 201 Verdicts & Sett. LEXIS 58 (Feb. 9, 2012) 
-CASE NUMBER: 2:10-cv-380-EFS MEDIATOR: Cynthia Imbrogno 
+CASE NUMBER: 2:10-cv-380-EFS 
+MEDIATOR: Cynthia Imbrogno 
 EXPERTS: Jane Ramon, social worker, North Eastham, MA, Katherine JD, Seattle, WA, Cloie Johnson, vocational rehabilitation, Bothell, WA, A Urquiza Ph.D., psychologist, Sacramento, CA for the plaintiff; Lorah Dc Ph.D., psychologist, Portland, OR. For the defendant 
 ATTORNEYS: David Moody & Marty McLean of Hagens Berman Shapiro, Seattle, WA for the plaintiff; Jarold Cartwright, Washington Attorney General's Office, Spokane, WA for the defendant 
 INJURED PARTY: 25 year old developmentally disabled female 
@@ -16764,7 +16836,8 @@ SPECIFIC INJURY: Emotional distress
 AMOUNT: $9,750,000 (Clark Co., WA) 
 CASE: Christopher, Christa, and Nathaniel Graf and lan and Eli Weller v. State of Washington, Department of Social and Health Services, 2015 WA lurviv & Sett. LEXIS 74 (Oct. 3, 2014) irisi . .. 
 CASE NUMBER::14:2:00649-1: :" " .. i. win 
-JUDGE: Gregory Gònzales MEDIATOR: "Antonio Piazza 
+JUDGE: Gregory Gònzales 
+MEDIATOR: Antonio Piazza 
 EXPERTS: Name of the plaintiff's expert ņot published; Lauren Reba-Harrelson 
 ATTORNEYS: David P. Moody & lan M. Bauer of Hagens Berman Sobol 
 EVENT: The plaintiffs alleged that the defendant Den Health Services received more, plaintiffs' abusive parents but did nothing to protect them convicted of more than 23 counts of child abuse 
@@ -17778,7 +17851,8 @@ PERTINENT INFORMATION: The case settled
 ----------
 AMOUNT: $5,800,000 (Camden Co., NJ) 
 CASE: Crumley v. D'Andrea Construction Co., et al., 2012 NJ Jury ved Review LEXIS 26 (Jan. 23, 2012) 
-CASE NUMBER: CAM-L-4391-09 MEDIATOR: Joel Rosen 
+CASE NUMBER: CAM-L-4391-09 
+MEDIATOR: Joel Rosen 
 EXPERTS: Not published 
 ATTORNEYS: Robert Mongeluzzi, Andrew Duffy of Saltz, Mongeluz and Bendesky, Philadelphia, PA, Daniel Schwarz; John Popilock, Dane of Schwarz Cleary Josem and Schwarz, Philadelphia, PA for the plaints the defendant's attorney not published 
 INJURED PARTY: Male iron worker. 
@@ -18073,7 +18147,8 @@ PERTINENT INFORMATION: The plaintiff's husband made a loss of tium claim
 ----------
 AMOUNT: $525,000 (King Co., WA). 
 CASE: Lory Moon v. Alcorn Logging, Inc., 2014 WA Jury Verdicis LEXIS 52 (October 18, 2013) 
-CASE NUMBER: 12-2-30252-9KNT MEDIATOR: Ed Snook 
+CASE NUMBER: 12-2-30252-9KNT 
+MEDIATOR: Ed Snook 
 EXPERTS: Dr. Phillip Downer (orthopedic surgeon) Seattle, WA, Mandt (orthopedic surgeon) Bellevue, WA for the plaintiff; Dr. Jau (orthopedic surgeon) Kent, WA, Dr. Lance Brigham (orthopedic surgeon WA for the defendant 
 ATTORNEYS: Mark W. Davis, Curran Law Firm, Kent, WA for William Spencer of Murray Dunham & Murray, Seattle, WA for the 
 INJURED PARTY: 40 year old female 
@@ -18722,8 +18797,8 @@ SPECIFIC INJURY: Vertebra fractures of the lumbar, thoracic and cervical špine;
 PERTINENT INFORMATION: The parties settled prior to trial for $3,500,000 
 ----------
 AMOUNT: $1,000,000 (Orange Co., FL) 
-CASE: Thomas Walker V. Bithlo Motorsports, LLC et al., 2014 FL Jury Verdicts : 
-CASE NUMBER: 2011CA1724 : ; 
+CASE: Thomas Walker v. Bithlo Motorsports, LLC et al., 2014 FL Jury Ver Rptr. LEXIS 185 (Feb. 24, 2014) 
+CASE NUMBER: 2011CA1724 
 JUDGE: John Marshall Kest 
 EXPERTS: Not published Todd Falzone of Kelley Uustal, PLC, Fort Lauderdale, FL for the 
 ATTORNEYS: Todd Falzone of Kelley Uustal, PLC, Fori Law maintiff. William A. Davis, Jr. of Cole, Scott, et al., Orlando, FL for the defendant 
@@ -18836,7 +18911,8 @@ PERTINENT INFORMATION: The parties' settled before trial
 ----------
 AMOUNT: $1,000,000 (Somerset Co., NJ)" 
 CASE: Ramos v. Lucash Montgom Verdicts Review LEXIS 156 (June 2 
-CASE NUMBER: SOM-L-1372-10 MEDIATOR: Jack Lint 
+CASE NUMBER: SOM-L-1372-10 
+MEDIATOR: Jack Lint 
 EXPERTS: Not published *** 
 INJURED PARTY: 299 year old male" 
 EVENT: The plaintiff fell from a scaffold while working for a single-family home 
@@ -18959,7 +19035,7 @@ SPECIFIC INJURY: Neck injury; Incomplete spinal cord injury .. 3-column complete
 PERTINENT INFORMATION: The damages included medical expenses of $262,934 . 
 ----------
 AMOUNT: $2,620,000 (Philadelphia Co., PA) 
-CASE: McLees v. Defendants, 2015 PA Jury Verdicts, Review LEXIS 38 (March 8, 2015) isipin 
+CASE: McLees v. Defendants, 2015 PA Jury Verdicts, Review LEXIS 38 (March 8, 2015)  
 CASE NUMBER: 12-10-02798 
 JUDGE: Leon W. Tucker econstruction, Phoenixville, PA, Joseph 
 EXPERTS: Kevin O'Connor, accident reconstruction, Phoenixvi 
@@ -18994,7 +19070,8 @@ PERTINENT INFORMATION: The case settled with the dete follows: the company that 
 AMOUNT: $26,100,000 (Philadelphia Co., PA) 
 CASE: Peter M. Sneeringer II, et al. v. GLC Transportation Inc., et al Jury Verdicts Review LEXIS 78 (June 5, 2012) 
 CASE NUMBER: 110501252 
-JUDGE: Marlene F. Lachman MEDIATOR: James R. Melinson 
+JUDGE: Marlene F. Lachman 
+MEDIATOR: James R. Melinson 
 EXPERTS: Not published 
 ATTORNEYS: Alan M. Feldman, Daniel J. Mann and Edward S.: Goldis. Feldman Shepherd Wohlgelernter Tanner Weinstock & Dodig, Philadelphia. for the plaintiff: Chester A. Dudzinski, Salvatore Vilardi and Judith A. Moses Cipriani & Werhér, Philadelphia, PA for the defendant' i ' INJURED PARTIES: Two adult males and one adult female 
 EVENT: The plaintiff driver was stopped in traffic due to road construction when : and the plaintiff husband was in the rear of the vehicle 
@@ -19544,7 +19621,8 @@ PERTINENT INFORMATION: The plaintiff incurred medical expenses $4,000,000 and re
 ----------
 AMOUNT: $8,000,000 (Snohomish Co., WA) 
 CASE: Billy and Cindy Smith v. Baxano, et al., 2015 WA Jury Verdicts & LEXIS 118 (Sept. 5, 2014) 
-CASE NUMBER: 13-2-02714-1 MEDIATOR: Tom Harris 
+CASE NUMBER: 13-2-02714-1 
+MEDIATOR: Tom Harris 
 EXPERTS: Dr. Paul Anderson, orthopedic surgeon, Madison, W Morledge Ph.D., audiologist/neuromonitoring, Boise, ID; Wilson Hayes biomechanical engineer, Jeremy Bauer Ph.D., biomechanical engineer), Corvallis, OR, George Samaras Ph.D., electrical engineer/medical device regulations, Pueblo, CO, Paul Hofmann Ph.D., hospital liability, Berkeley, CA, Rebecca Bellerive, life care planner, Gig Harbor, WA, Phil Morello, electrical engineer, Costa Mesa, CA for the defendant 
 ATTORNEYS: Reed Schifferman, Law Offices of. Reed Schifferman, Seattle, WĄ for the plaintiff; Chris Tompkins of Betts Patterson & Mines, Seattle, WA, Lori Cohen of Greenberg Traurig, Atlanta, GA, Elizabeth Leedom of Bennett Bigelow & Leedom, Seattle, WA, Rando Wick of Johnson Graffe Keay Moniz & Wick, Seattle, WA, Scott O'Halloran of Williams Kastner & Gibbs, Tacoma, WA, Thomas Merrick of Merrick Hofstedt & Lindsey, Seattle, WA for the defendants 
 INJURED PARTY: 56 year old male 
@@ -19977,7 +20055,8 @@ EVENT: The plaintiff alleged that the defendant surgeon was negligent in failing
 SPECIFIC INJURY: Slack wrist deformity 
 ----------
 AMOUNT: $900.000 (Bergen Co., NJ) 
-CASE NUMBER: Not published MEDIATOR: Brian Marinotti 
+CASE NUMBER: Not published 
+MEDIATOR: Brian Marinotti 
 EXPERTS: Not published NJ, for the ple INJURED P 
 EVENT: The de 
 PERTINENT INFORMATION: The parties settled before trial 
@@ -20986,7 +21065,8 @@ PERTINENT INFORMATION: The case settled prior to trial for a total $8,000,000
 AMOUNT: $26,100,000 (Philadelphia Co., PA) 
 CASE: Peter M. Sneeringer II, et al. v. GLC Transportation Inc., et al., 2012 in Jury Verdicts Review LEXIS 78 (June 5, 2012) 
 CASE NUMBER: 110501252 
-JUDGE: Marlene F. Lachman MEDIATOR: James R. Melinson 
+JUDGE: Marlene F. Lachman 
+MEDIATOR: James R. Melinson 
 EXPERTS: Not published 
 ATTORNEYS: Alan M. Feldman, Daniel J. Mann and Edward S. Feldman Shepherd Wohlgelernter Tanner Weinstock & Dodig, Philadelphia, for the plaintiff; Chester A. Dudzinski, Salvatore Vilardi and Judith A. MOSC Cipriani & Werner, Philadelphia, PA for the defendant 
 DECEDENT: Adult male 
