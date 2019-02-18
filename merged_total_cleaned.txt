@@ -86,7 +86,7 @@ SPECIFIC INJURY: Ruptured abdominal aortic aneurysm; ischemic injury
 PERTINENT INFORMATION: The parties entered into a confidential settle ment prior to trial 
 ----------
 AMOUNT: $1.250,000 (Bergen Co., NJ) 
-CASE: Massey v. NJ Transit, 2014 NJ Jury Verdicts Review LEXIS 197 (June 30, 2014) 
+CASE: Massey v. NJ Transit corporation, 2014 NJ Jury Verdicts Review LEXIS 197 (June 30, 2014) 
 CASE NUMBER: BER-L-7541-11 
 JUDGE: Not published 
 EXPERTS: Dr. Javier Perez, Hackensack, NJ, Dr. Marc Arginteanu, neurosur gery, Hackensack, NJ, Dr. Thomas Ragukonis, orthopedic surgery, Paramus, NJ, Dr. John Athas, radiology, Forest Hills, NY for the plaintiff; name of the defendant's expert not published 
@@ -107,7 +107,7 @@ SPECIFIC INJURY: Ruptured appendix; Removal of the ascending colon, part of the 
 PERTINENT INFORMATION: The jury awarded $1,500,000 and the parties settled for $1,000,000, the amount of the defendant's policy..... 
 ----------
 AMOUNT: $2,250,000 (Mercer Co., NJ) 
-CASE: Smith v. Brạzel, 2013 NJ Jury Verdicts Review LEXIS 152 (May 30, 2013) 
+CASE: Smith v. Brazel, 2013 NJ Jury Verdicts Review LEXIS 152 (May 30, 2013) 
 CASE NUMBER: MER-L-211-11 
 JUDGE: Not published 
 EXPERTS: Dr. Mohammed R. Saleen (general surgeon). Trenton, NJ, Edward Edward Maitz, Ph.D. (neuropsychological) Philadelphia, PA, Dr. Thomas Bills (orthopedics) Hamilton, NJ, Ellen Rader Smith, OTR, CVE, CPE (vocational evaluation and functional capacity) Towaco, NJ, Robert Wolf, Ed.D., MBA (vocational-economic loss) Cherry Hill, NJ for the plaintiff; Chad Staller. JD. MBA, MAC (economics) Philadelphia, PA, Dr. Alan J. Sarohkan (orthopedics), James M. Pascuiti, M.A., C.R.C. (vocational evaluation) Springfield, NJ for the defendant 
@@ -672,7 +672,7 @@ SPECIFIC INJURY: Fractures to hip, pelvis, ankle, knee, hand and foot
 PERTINENT INFORMATION: The parties settled prior to trial for the defendant's policy limits 
 ----------
 AMOUNT: $1,626,500 (Bergen Co., NJ) 
-CASE: Murayama v. Sodexo, et al., 2013 NJ Jury Verdicts Review LEXI (May 9, 2013) 
+CASE: Murayama v. Sodexo company, et al., 2013 NJ Jury Verdicts Review LEXI (May 9, 2013) 
 CASE NUMBER: BER-L-5390-10 
 JUDGE: Not published 
 EXPERTS: Frank Tinari, Ph.D. (economics) Livingston, NJ, George Gian forcaro, P.E. (engineering) Chester, NJ, Dr. Sushi Yoshida (orthopedic surgery), Edmond Provder (vocational) Lodi, NJ for the plaintiff; name of the defendant's expert not published 
@@ -791,7 +791,7 @@ SPECIFIC INJURY: Pilon fracture; Medial malleolus fracture; Shoulder sepa ration
 PERTINENT INFORMATION: The parties settled prior to trial for $550,000. The plaintiff made no income claims 
 ----------
 AMOUNT: $385,000 (Monmouth Co., NJ) 
-CASE: McPeek v. Bayshore Bar & Grill, et al., 2014 NJ Jury Verdicts Review LEXIS 106 (March 10, 2014).. 
+CASE: McPeek v. Bayshore Bar restaurant, et al., 2014 NJ Jury Verdicts Review LEXIS 106 (March 10, 2014).. 
 CASE NUMBER: MON-L 1038-11 
 JUDGE: Not published 
 EXPERTS: Wayne Nolte, PE, engineering, Hazlet, NJ for the plaintiff; name of the defendant's expert not published 
@@ -813,7 +813,7 @@ SPECIFIC INJURY: Left wrist fracture; tear to left ankle tendon; Thoracic and lu
 PERTINENT INFORMATION: The case settled prior to trial for $1,700,000 
 ----------
 AMOUNT: $1,000,000 (Monmouth Co., NJ) 
-CASE: Nogueira v. Farm Family Cas. Ins: Co., 2012. NJ Jury Verdicts Rev LEXIS 214 (June 29, 2012) 
+CASE: Nogueira v. Farm Family Life Insurance Company, 2012. NJ Jury Verdicts Rev LEXIS 214 (June 29, 2012) 
 CASE NUMBER: Not published 
 JUDGE: Not published 
 EXPERTS: Not published 
@@ -2611,18 +2611,9 @@ INJURED PARTY: 43 year old male trucker
 EVENT: The plaintiff fell from a ladder at a work site :· 
 SPECIFIC INJURY: Left foot and left ankle fractures; ulnar neuropathy; lumbar herniation 
 PERTINENT INFORMATION: The parties settled prior to trial AMOUNT $1.570,000 (Hudson Co., NJ) 
-CASE: Marino v. PATH, 2015 NJ Jury Verdicts Review LEXIS 281 (July 9, 2015) 
-CASE NUMBER: HUD-L-599-13 
-JUDGE: Not published 
-EXPERTS: George Widas, PE, engineer Medford, NJ, Dr. Alfred Steinberger, heurosurgeon, Engelwood, NJ. Dr. Avrill Berkman, orthopedic surgeon, West Caldwell, NJ, Dr. Richard Kang, pain management, Fort Lee, NJ for the plaintiff; name of the defendant's expert not published 
-ATTORNEYS: Jaclyn A. Gannon and Charles A. Cerussi of Cerussi & Gunn, Shrewsbury, NJ for the plaintiff; name of the defendant's attorney not published 
-INJURED PARTY: Male railroad worker in his early 50s 
-EVENT: The plaintiff fell from a stepladder while attempting to climb down into Tall car for transport for inspection and repair 
-SPECIFIC INJURY: Ankle fracture; Lumbar herniation 
-PERTINENT INFORMATION: The case settled prior to trial for $1,000,000 cash and a waiver of the $570,000 lien for past lost earnings and medical bills 
 ----------
 AMOUNT: $3,650,000 (Hudson Co., NJ) 
-CASE: Geenvario v. Schneider National Carrier, et al., 2015 NJ Jury Verdicts Review LEXIS 169 (May 4, 2015) 
+CASE: Geenvario v. Schneider National Carrier Company, et al., 2015 NJ Jury Verdicts Review LEXIS 169 (May 4, 2015) 
 CASE NUMBER: HUD-L-5775-12 
 JUDGE: Francis Schultz 
 EXPERTS: Patrick Sawyer, accident reconstruction, Cranford, NJ, Michael Soudry, M.B.A, economics, East Hanover, NJ. Harold Biasky, life care planning: Jersey City, NJ, Dr. Steven H. Dane, neurology, Paterson, NJ, Dr. John E. Owens, orthopedic surgeon, Englewood, NJ, Judith E Kahn, physiatry, Riverdale, NY, Dr. Devandra Kurani, MD, psychiatry, Jersey City, NJ, Hugh Brorbidge, BSME, video animation, Abbington, PA, Edmond A. Provder, PhD, vocational, Lodi, NJ for the plaintiff; name of the defendant's expert not published 
@@ -3158,7 +3149,7 @@ SPECIFIC INJURY: Cervical herniation; Lumbar soft tissue injuries
 PERTINENT INFORMATION: The jury found award included $4,500,00 pain, suffering, disability, impairment and loss of enjoyment of life and $259, to the plaintiff's wife 
 ----------
 AMOUNT: $1,350,000 (Middlesex Co., NJ) 
-CASE: Janiszak v. Extended Stay, et al., 2014 NJ Jury Verdicts Review Le 234 (Aug. 13, 2014) 
+CASE: Janiszak v. Extended Stay company, et al., 2014 NJ Jury Verdicts Review Le 234 (Aug. 13, 2014) 
 CASE NUMBER: MID-L-4051-11 
 JUDGE: Phillip Paley 
 EXPERTS: Not published 
@@ -3919,7 +3910,7 @@ SPECIFIC INJURY: Complex Regional Pain Syndrome in the right have strains to the
 PERTINENT INFORMATION: The parties settled prior to trial 
 ----------
 AMOUNT: $1.250,000 (Bergen Co., NJ) 
-CASE: Massey v. NJ Transit, 2014 NJ Jury Verdicts Review LEXIS 197 (June 30, 2014) 
+CASE: Massey v. NJ Transit corporation, 2014 NJ Jury Verdicts Review LEXIS 197 (June 30, 2014) 
 CASE NUMBER: BER-L-7541-11 
 JUDGE: Not published 
 EXPERTS: Dr. Javier Perez, Hackensack, NJ, Dr. Marc Arginteanu, nel gery, Hackensack, NJ, Dr. Thomas Ragukonis, orthopedic surgery, Paramu Dr. John Athas, radiology, Forest Hills, NY for the plaintiff; name defendant's expert not published 
@@ -5549,7 +5540,7 @@ INJURED PARTIES: Female in her mid 30s and female infant
 EVENT: As the plaintiff mother was wheeling her daughter across the road she was struck by the defendant's van. The carriage was dragged approxim ten to 15 feet by the van SPECIFIC INJURIES: Infant--First degree traumatic burns to the upper cheek and ankle; Leg med Scarring 
 ----------
 AMOUNT: $925,000 (Morris Co., NJ) 
-CASE: Kolodzieg v. TEC Installations, et al., 2012 NJ Jury Verdicts Review LEXIS: 205 (July 2, 2012) ..!: : 
+CASE: Kolodzieg v. TEC Installations company, et al., 2012 NJ Jury Verdicts Review LEXIS: 205 (July 2, 2012) 
 CASE NUMBER: MRS-L:2928-10 
 JUDGE: Not published 
 EXPERTS: Not published...... . . . . 
@@ -5559,7 +5550,7 @@ EVENT: The plaintiff alleged that the defendant, whose employees arrived with it
 SPECIFIC INJURY: Second and some third degree burns to the lower legs; Burns to arms 
 ----------
 AMOUNT: $425,000 (Passaic Co., NJ) 
-CASE: Cooper v. Eagle Roofing and Chimneys, 2015 NJ Jury Verdicts Review LEXIS 249 (October 16, 2015) 
+CASE: Cooper v. Eagle Roofing Company, 2015 NJ Jury Verdicts Review LEXIS 249 (October 16, 2015) 
 CASE NUMBER: PAS-L-1364-14 
 MEDIATOR: Eugene J. Cody 
 EXPERTS: Not published 
@@ -5570,7 +5561,7 @@ SPECIFIC INJURY: Facial burns; Post traumatic stress disorder with anxiety
 PERTINENT INFORMATION: The parties settled prior to trial 
 ----------
 AMOUNT: $1,000,000 (Somerset Co., NJ) 
-CASE: Bernardino v. Bound Brook Dry Cleaners, et al., 2012 NJ Jury Verdicts Review LEXIS 196 (Apr. 21, 2012) 
+CASE: Bernardino v. Bound Brook Dry Cleaners company, et al., 2012 NJ Jury Verdicts Review LEXIS 196 (Apr. 21, 2012) 
 CASE NUMBER: SOM-L-1142-08 
 JUDGE: Not published. 
 EXPERTS: Dr. Mokhtar Asaadi (burn specialist) and Dr. E. Hani Mansour, Livingston, NJ, Harold Ehrlich (industrial engineering) White Plains, NY for the plaintiff; name of the defendant's expert not published 
@@ -7606,7 +7597,7 @@ EVENT: The plaintiffs alleged that the defendants' repeated failure to examine n
 SPECIFIC INJURY: L'oss of vision in one eye i. 
 ----------
 AMOUNT: $2,000,000 (Morris Co., NJ), 
-CASE: Pisano v. NJ DOT, et al., 2014 NJ Jury Verdicts Review LEXIS 264 (July 2014) 
+CASE: Pisano v. NJ DOT company, et al., 2014 NJ Jury Verdicts Review LEXIS 264 (July 2014) 
 CASE NUMBER: MRS-L-4139-09 
 JUDGE: John E. Keefe, Sr. 
 EXPERTS: Kenneth R. Agent, PE, engineering, Lexington, KY, Dale S. Decker, PE, engineering, Eagle, CO for the plaintiff; name of the defendant's expert not published 
@@ -7904,7 +7895,7 @@ SPECIFIC INJURY: Brain injury; blindness in one eye; quadriplegia; leg amputatio
 PERTINENT INFORMATION: The award included $7,500,000 for pain and suffering. The parties had entered into a high/low agreement. The jury found the defendant WalMart liable 
 ----------
 AMOUNT: $337,017 (U.S. Dist. Ct. D. NJ) 
-CASE: Clark v. Red Lobster, 2014 Federal Jury Verdicts Rptr. LEXIS 104 (April 23, 2014) 
+CASE: Clark v. Red Lobster restaurant, 2014 Federal Jury Verdicts Rptr. LEXIS 104 (April 23, 2014) 
 CASE NUMBER: 3:11-1056 
 JUDGE: Douglas E. Arpert 
 EXPERTS: Not published: 
@@ -8156,7 +8147,7 @@ SPECIFIC INJURY: Fractures of the nasal bone, maxillary sinus, maxillary alveolu
 PERTINENT INFORMATION: The parties settled prior to trial 
 ----------
 AMOUNT: $2,000,000 (Morris Co., NJ), 
-CASE: Pisano v. NJ DOT, et al., 2014 NJ Jury Verdicts Review LEXIS 264 (July 2014) 
+CASE: Pisano v. NJ DOT company, et al., 2014 NJ Jury Verdicts Review LEXIS 264 (July 2014) 
 CASE NUMBER: MRS-L-4139-09 
 JUDGE: John E. Keefe, Sr. 
 EXPERTS: Kenneth R. Agent, PE, engineering, Lexington, KY, Dale S. Deckel, PE, engineering, Eagle, CO for the plaintiff; name of the defendant's expert nou published 
@@ -8876,7 +8867,7 @@ SPECIFIC INJURY: Fractures to hip, pelvis, ankle, knee, hand and foot,
 PERTINENT INFORMATION: The parties settled prior to trial for the defendant's policy limits 
 ----------
 AMOUNT: $1,626,500 (Bergen Co., NJ) 
-CASE: Murayama v. Sodexo, et al., 2013 NJ Jury Verdicts Review LEXI (May 9, 2013) 
+CASE: Murayama v. Sodexo company, et al., 2013 NJ Jury Verdicts Review LEXI (May 9, 2013) 
 CASE NUMBER: BER-L-5390-10 
 JUDGE: Not published 
 EXPERTS: Frank Tinari, Ph.D. (economics) Livingston, NJ, George Gian forcaro, P.E. (engineering) Chester, NJ, Dr. Sushi Yoshida (orthopedic surgery), Edmond Provder (vocational) Lodi, NJ for the plaintiff; name of the defendant's expert not published 
@@ -9694,7 +9685,7 @@ EVENT: While working to inst Plaintiff was working in collapsed and buried him u
 PERTINENT INFORMATION: The award included $4,000,000 for pain and suffering, $2,000,000 for past and future lost income, $800,000 for future medical expenses, $62,012 for past medical expenses and $150,000, to the wife on her per quod claim 
 ----------
 AMOUNT: $1,350,000 (Middlesex Co., NJ) 
-CASE: Janiszak v. Extended Stay, et al., 2014 NJ Jury Verdicts Review Le 234 (Aug. 13, 2014) 
+CASE: Janiszak v. Extended Stay company, et al., 2014 NJ Jury Verdicts Review Le 234 (Aug. 13, 2014) 
 CASE NUMBER: MID-L-4051-11 
 JUDGE: Phillip Paley . i ... 
 EXPERTS: Not published is 
@@ -10378,7 +10369,7 @@ JUDGE: Not published
 ATTORNEYS: Michael Gunzburg of Law, Offices of Michael Gunzburg.: New York, NY for the plaintiff; name of the defendant's attorney not published : 
 INJURED PARTY: 51 year old female 
 EVENT: The plaintiff alleged that the defendant ob/gyn eight-month delay in diagnosing vulvar cancer resulted in extensive surgery and disabling radiation 
-SPECIFIC INJURY: Vulvar cancer". 
+SPECIFIC INJURY: vulvar cancer
 ----------
 AMOUNT: $10,000,000 (Suffolk Co., NY) 
 CASE: Van Horne v. State of New York, 2012 NY Jury Verdicts Rev 205 (July 27, 2012) 
@@ -10722,18 +10713,7 @@ EVENT: The plaintiff slipped while moving office equipment a short distance to k
 SPECIFIC INJURY: Double hernia; Need for removal of testicle; Sexual dysfunction 
 PERTINENT INFORMATION: The jury found the plaintiff 10% liable. The award included including $850,000 for income loss, $600,000 for pain; and suffering, $42.000 for medical bills, and $65,000 to the plaintiff's wife on her per quod claim 
 ----------
-AMOUNT: $6,300,000 (Bergen Co., NJ) 
-CASE: Francisco v. Wang, 2012 NJ Jury Verdicts Review LEXIS 140 (June 1, 2012) 
-CASE NUMBER: BER-L-881-09 
-JUDGE: Rachelle Harz 
-EXPERTS: Dr. Franklin Vazquez, Clifton, NJ (first treating surgery expert who performed colostomiv); Dr. Steven Fiske, West Orange, NJ (gastroenterolo eler. Westfield, NJ (general surgery); ostomy) for the plaintiff; Dr. David Befeler, Westfield. NI 10 Dr. Victor Borden, Englewood, NJ (ob/gyn) for the defendant 
-ATTORNEYS: Donald A. honold A. Caminiti of Breslin & Breslin, Hackensack. NI for the plaintiff; name of the defendant's attorney not published 
-INJURED PARTY: Female in mid 40s pherectomy and was discharged two 
-EVENT: The plaintiff underw . . 
-SPECIFIC INJURY: Peritonitis; Severe continuing abdominal pain and gastric symptoms 
-PERTINENT INFORMATION: The jury awarded $6,000,000 to the plaintiff and $300,000 to her husband' on his per quod claim 
-----------
-AMOUNT: $4,500,000 (Bergen Co., NJ) ... .." 
+AMOUNT: $4,500,000 (Bergen Co., NJ)
 CASE: James Wilkerson v. Campbell's Auto Express and Material Handling Supply, 2012 NJ Jury Verdicts Review LEXIS 96 (Feb. 14, 2012) 
 CASE NUMBER: L 4919-07 
 JUDGE: Louis Meloni 
@@ -10765,7 +10745,7 @@ EVENT: The plaintiff alleged that the defendant failed to protect her bowe uurin
 SPECIFIC INJURY: Significant abdominal scarring; Lumbar herniation: Ref sympathetic dystrophy syndrome 
 ----------
 AMOUNT: $4,200,446 (Essex Co., NJ) 
-CASE: Clanton v. Nissan Motors, et al., 2013 NJ Jury Verdicts Review LEXIS 61 (March 20, 2013) 
+CASE: Clanton v. Nissan Motors company, et al., 2013 NJ Jury Verdicts Review LEXIS 61 (March 20, 2013) 
 CASE NUMBER: ESX-L-10082-07 
 JUDGE: Not published 
 EXPERTS: Donald Phillips, P.E. (accident reconstruction) Hawthorne, NJ, Craig Clauser (metallurgy) West Chester, PA, David (neuropsychology) Englewood Cliffs, NJ, Dr. Sanders Davis (physiatry) Mend M. - Masur, Ph.D. ham, NJ, Dr. Louis J. Perl (radiology) Short Hills, NJ, Dr. Alan Strumeyer (urology) Millburn, NJ for the plaintiff; Thomas R. Perl, P.E., Ph.D. (accident reconstruction) Orem, UT, Kenneth Orlowski, P.E., UT, Dr. James Raddin (biomechanical engineering) TX for the defendant 
@@ -10825,7 +10805,7 @@ EXPERTS: Dr. Douglas R Phillips, ob/gyn, Bellmore, NY for the plaintiit, Hilary 
 ATTORNEYS: Jean Marie Westlake of DeFrancisco & Falgiatario, Syracuse, NY for the plaintiff; name of the defendant's attorney not published: 0:55 
 INJURED PARTY: Female in her mid 40s 
 EVENT: The plaintiff alleged that the defendant negligently performed a bladder sling repair and hysterectomy 
-SPECIFIC INJURY: Injury to obturator nerve; lèg and gioin pain 
+SPECIFIC INJURY: Injury to obturator nerve; leg and groin pain 
 PERTINENT INFORMATION: The award included $500,000 for past pain and suffering, $350,000 for past lost income and $3,000,000 for future pain and suffering over 30 years 
 ----------
 AMOUNT: $62,060,086 (Queens Co., NY) !! !. 1. 
@@ -11139,7 +11119,7 @@ CASE NUMBER: 11-3797 :
 JUDGE: Brian Edwards.. Vest Palm Beach, FL, Dr. Larry 
 EXPERTS: Dr. Jeffrey Kotze Larry Griffin, Ob-Gyn, Louisville, KY, Dr. Richard Beigi, Ob-Gyn. plaintiff; Dr. Larry Gri Pittsburgh, PA for the defendant 
 ATTORNEYS: David B. Gray, Goldberg & Simpson, Prospect, KY. Chris onant female presented to the hospital with 
-EVENT: The 27 year old 
+INJURED PARTY: The 27 year old 
 SPECIFIC INJURY: Death; urosepsis 
 PERTINENT INFORMATION: The jury assessed that fault 60% to the hospital and the remainder to Dr. Segal. The verdict was $7,440,000. A consistent judgment less comparative fault was entered for the plaintiffs in the sum of $2,976,000. The hospital entered a secret settlement and was dismissed in May of 2013. The defendant doctor has appealed the verdict 
 ----------
@@ -11303,7 +11283,7 @@ EVENT: The plaintiff alleged that the defendant driver turned into his path and 
 SPECIFIC INJURY: Fractures to the right dominant wrist and hand; right ankle, clavicle and scapula PERTINENT INFORMATION; The parties settled for the policy limits on $500.000. The plaintiff made no income claims 
 ----------
 AMOUNT: $2,000,000 (Morris Co., NJ), 
-CASE: Pisano v. NJ DOT, et al., 2014 NJ Jury Verdicts Review LEXIS 264 (July 2014) 
+CASE: Pisano v. NJ DOT company, et al., 2014 NJ Jury Verdicts Review LEXIS 264 (July 2014) 
 CASE NUMBER: MRS-L-4139-09 
 JUDGE: John E. Keefe, Sr. 
 EXPERTS: Kenneth R. Agent, PE, engineering, Lexington, KY, Dale S. Decker, PE, engineering, Eagle, CO for the plaintiff; name of the defendant's expert not published 
@@ -11616,7 +11596,7 @@ INJURED PARTY: 63 year old male truck driver
 EVENT: A drunk truck driver crashed head on into the plaintiff's vehicle .. SPECIFIC ÎNJURY: Traumatic open left ulnar fracture; Multiple left carpal fractures; Traumatic bursitis of the left knee; Post traumatic stress disorder with anxiety, depression, nightmares, insomnia, and flashbacks 
 ----------
 AMOUNT: $4,200,446 (Essex Co., NJ) 
-CASE: Clanton v. Nissan Motors, et al., 2013 NJ Jury Verdicts Review LEXIS 61 (March 20, 2013) 
+CASE: Clanton v. Nissan Motors company, et al., 2013 NJ Jury Verdicts Review LEXIS 61 (March 20, 2013) 
 CASE NUMBER: ESX-L-10082-07 
 JUDGE: Not published 
 EXPERTS: Donald Phillips, P.E. (accident reconstruction) Hawthorne, NJ, Craig Clauser (metallurgy) West Chester, PA, David M. Masur, Ph.D. (neuropsychology) Englewood Cliffs, NJ, Dr. Sanders Davis (physiatry) Mend ham, NJ, Dr. Louis J. Perl (radiology) Short Hills, NJ, Dr. Alan Strumeyer (urology) Millburn, NJ for the plaintiff, Thomas R. Perl, P.E., Ph.D. (accident reconstruction) Orem, UT, Kenneth Orlowski, P.E., UT, Dr. James Raddin (biomechanical engineering) TX for the defendant 
@@ -11627,7 +11607,7 @@ SPECIFIC INJURY: Spinal cord injury; Curling of fingers; Sexual dysfunction; Par
 PERTINENT INFORMATION: The gross award was $4.200.446. The ne 
 ----------
 AMOUNT: $6,000,000 (Mercer Co., NJ) 
-CASE: Brown v. Hayneswood Anilox, et al., 2015 NJ Jury Verdicts Review LEXIS 168 (May 24, 2015)
+CASE: Brown v. Hayneswood company, et al., 2015 NJ Jury Verdicts Review LEXIS 168 (May 24, 2015)
 CASE NUMBER: MER-L-3146-09
 JUDGE: Douglas Hurd
 EXPERTS: Consulting Engineers and Scientists (CES), Malverne, PA for the . ., plaintiff, name of the defendant's expert not published . . 
@@ -12109,7 +12089,7 @@ SPECIFIC INJURIES: Plaintiff one-Open fracture of the right calcaneus; Torn plan
 PERTINENT INFORMATION: The first plaintiff's case settled for $2.900.000 
 ----------
 AMOUNT: $2,000,000 (Morris Co., NJ), 
-CASE: Pisano v. NJ DOT, et al., 2014 NJ Jury Verdicts Review LEXIS 264 (July 2014) 
+CASE: Pisano v. NJ DOT company, et al., 2014 NJ Jury Verdicts Review LEXIS 264 (July 2014) 
 CASE NUMBER: MRS-L-4139-09 
 JUDGE: John E. Keefe, Sr. 
 EXPERTS: Kenneth R. Agent, PE, engineering, Lexington, KY, Dale S. Decker. PE, engineering. Eagle, CO for the plaintiff; name of the defendant's expert not published ATTORNEYS. Stephen S. Weinstein, and Gail S. Boertzel, of Stephen S Weinstein PA. Morristown, NJ for the plaintiff; name of the defendant's attorney not published 
@@ -13431,7 +13411,7 @@ SPECIFIC INJURY: Hip and pelvic fractures
 PERTINENT INFORMATION: The case was submitted to non-binding tration and resulted in a $1,000,000 arbitration award. The case against derei A settled prior to trial for $490,000 and the case against defendant B ten pending 
 ----------
 AMOUNT: $1,626,500 (Bergen Co., NJ) 
-CASE: Murayama v. Sodexo, et al., 2013 NJ Jury Verdicts Review LEXI (May 9, 2013) 
+CASE: Murayama v. Sodexo company, et al., 2013 NJ Jury Verdicts Review LEXI (May 9, 2013) 
 CASE NUMBER: BER-L-5390-10 
 JUDGE: Not published 
 EXPERTS: Frank Tinari, Ph.D. (economics) Livingston, NJ, George forcaro, P.E. (engineering) Chester, NJ, Dr. Sushi Yoshida (orthopedic surg Edmond Proyder (yocational) Lodi, NJ for the plaintiff; name of the defendant's expert inot published... .. !!.:.;.. 
@@ -14110,8 +14090,7 @@ EXPERTS: Dr. Alan Alyea (orthopedic surgeon), John Long DO (physia Spokane, WA f
 ATTORNEYS: Janelle Carney of Graham Lundberg & Peschel, Spokane, WA the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 63 year old retired female 
 EVENT: The defendant's vehicle rear ended the plaintiff's vehicle, w plaintiff was stopped at a traffic light 
-SPECIFIC INJURY: Knee injury requiring arthroplasty; Neck injury: 
-SPECIFIC INJURY: Kn $ 18.02 Adequate . 
+SPECIFIC INJURY: Knee injury requiring arthroplasty; Neck injury
 ----------
 AMOUNT: $400,000 (Mobile Co., AL) 
 CASE: Pritchard v. McCants, 2014 AL Jury Verdicts Rptr. LEXIS 87 (May 1, 2014) 
@@ -14607,11 +14586,14 @@ SPECIFIC INJURY: Fractures of the nasal bone, maxillary sinus. maxillary ..
 PERTINENT INFORMATION: The parties settled prior to trial 
 ----------
 AMOUNT: $300,000 (Warren Co., NJ) 
-CASE: Plaintiff v. Dog Owner and Sitter, 2014 NJ Jury Verdicts Review LEXIS 176 (July 2014) . . CASE NUMBER* WRN-JL1444-14 - 
+CASE: Plaintiff v. Dog Owner and Sitter, 2014 NJ Jury Verdicts Review LEXIS 176 (July 2014)
+CASE NUMBER: WRN-JL1444-14
 JUDGE: John J. Coyle 
-EXPERTS: Dr Jose Alberto Bastidas, plastic and reconstructive surgery Easton PA for the plaintiff; name of the defendant's expert not published ATTORNEYS, Michael C. Vaccaro of Kearns & Duffy, PC, Liberty Córrier ni for the plaintiff; name of the defendant's attorney not published 
-INJURED PARTY: 9 year old female EVENT. While visiting the home of the co-defendant dog sitter, the defender dog owner's dog bit the plaintiff in the mouth. The plaintiff named the owner under the strict liability dog bite statute 
-SPECIFIC INJURY: Severe laceration and significant scarring in the area of the 
+EXPERTS: Dr Jose Alberto Bastidas, plastic and reconstructive surgery Easton PA for the plaintiff; name of the defendant's expert not published 
+ATTORNEYS: Michael C. Vaccaro of Kearns & Duffy, PC, Liberty Córrier ni for the plaintiff; name of the defendant's attorney not published 
+INJURED PARTY: 9 year old female 
+EVENT: While visiting the home of the co-defendant dog sitter, the defender dog owner's dog bit the plaintiff in the mouth. The plaintiff named the owner under the strict liability dog bite statute 
+SPECIFIC INJURY: Severe laceration and significant scarring in the area of the mouth
 PERTINENT INFORMATION: The parties settled prior to trial with $750 000 from the dog owner and $50,000 from the dog sitter 
 ----------
 AMOUNT: $95.000 (Kings Co., NY) 2013 NY Jury Verdicts Review LEXIS 
@@ -15343,7 +15325,7 @@ EXPERTS: Dr. Alan Alyea (orthopedic surgeon), John Long DO (physiatrist); Spokan
 ATTORNEYS: Janelle Carney of Graham Lundberg & Peschel, Spokane, WALU the plaintiff; name of the defendant's attorney not published 
 INJURED PARTY: 63 year old retired female , 
 EVENT: The defendant's vehicle rear-ended the plaintiff's vehicle, when. plaintiff was stopped at a traffic light ... 
-SPECIFIC INJURY: Knee injury requiring arthroplasty; Neck injury's. : 
+SPECIFIC INJURY: Knee injury requiring arthroplasty; Neck injury 
 ----------
 AMOUNT: $1,000,000 (Thurston Co., WA) 
 CASE: Jamie Crossland v. Yelm Prarie Dental, 2014 WA Jury Verdicts & Sert LEXIS 194 (June 16, 2014) 
@@ -16226,7 +16208,7 @@ SPECIFIC INJURY: Multiple pelvic fractures; five rib fractures, clavicle: skull 
 PERTINENT INFORMATION: The parties settled prior to tri defendant's policy limits of $500,000 in primary coverage and a umbrella coverage 
 ----------
 AMOUNT: $1,125,000 (Passaic Co., NJ)
-CASE: Tremble v. Sparta Transmission & Auto Repair, U.S. Oil and Mohawk Resources, Ltd., 2013 NJ Jury Verdicts Review LEXIS. 62: (March 28, 2013) 
+CASE: Tremble v. Sparta Transmission & Auto Repair company, U.S. Oil and Mohawk Resources company, 2013 NJ Jury Verdicts Review LEXIS. 62: (March 28, 2013) 
 CASE NUMBER: PAS-L-4987-10 
 JUDGE: Jack Lintner 
 EXPERTS: David J. Bizząck, PhD (engineering) Homestead, PA for the plaintiff; . name of the plaintiff's expert not:published : : 
@@ -16639,7 +16621,7 @@ EXPERTS: Dr. Sharad Wagley (psychiatry) Teaneck. NI of the defendant's expert no
 ATTORNEYS: Bertram Siegel; Todd I. Siegel of Sie ;'. NJ for the plaintiff; name of the defendant's at 
 INJURED PARTY: Three minor males 
 EVENT: The plaintiff, who were undocumented Hisi proficient in English, allegedly that they were molested by a school at high school 
-SPECIFIC INJURY: Major depressive di 
+SPECIFIC INJURY: Major depressive disorder
 PERTINENT INFORMATION: The settlemen plaintiff and $700,000 each to the other two plaintiffs 
 ----------
 AMOUNT: $1,250,000 (Burlington Co., NJ) 
@@ -17740,7 +17722,7 @@ JUDGE: Mariane Spearman
 EXPERTS: Dr. Csaba Hegyvary, psychiatrist, Seattle, WAR si plaintiff: Ketia Wick & Michael McDermott of Johnson Graffe' Wick, Seattle, WA for the defendant 
 INJURED PARTY: 29 year old unemployed female 
 EVENT: The plaintiff was sexually assaulted by another treated at the defendant's hospital 
-SPECIFIC INJURY: Émotional distress" 
+SPECIFIC INJURY: emotional distress
 ----------
 AMOUNT: $450,000 (King.Co., WA) 
 CASE: Gustavo Mejia v. The Fishing Company of Alaska Inc., 2013 WA Jury Verdicts & Sett. LEXIS 9 (Oct & 
@@ -18951,7 +18933,7 @@ SPECIFIC INJURY: Spinal cord injury; Anterior fusion with insit Cervical fractur
 PERTINENT INFORMATION: The case settled prior to trial will from the property owner and $5,000 from the pool seller 
 ----------
 AMOUNT: $4,200,446 (Essex Co., NJ) 
-CASE: Clanton v. Nissan Motors, et al., 2013 NJ Jury Verdicts Review LEXIS 61 (March 20, 2013) 
+CASE: Clanton v. Nissan Motors company, et al., 2013 NJ Jury Verdicts Review LEXIS 61 (March 20, 2013) 
 CASE NUMBER: ESX-L-10082-07 
 JUDGE: Not published 
 EXPERTS: Donald Phillips, P.E. (accident reconstruction) Hawthor Craig Clauser (metallurgy) West Chester, PA, David M. M. (neuropsychology) Englewood Cliffs, NJ, Dr. Sanders Davis (physi ham, NJ, Dr. Louis J. Perl (radiology) Short Hills, NJ, Dr. Ala (urology) Millburn, NJ for the plaintiff; Thomas R. Perl, P.E., Ph. reconstruction) Orem, UT, Kenneth Orlowski, PE. UT, Dr. Jai (biomechanical engineering) TX for the defendant 
@@ -19482,7 +19464,7 @@ SPECIFIC INJURY: Adult female-Cervical herniated discs; Emotional distress Femal
 PERTINENT INFORMATION: The court awarded $700,000 to the adult female and $120,000 to the child. The adult female's emotional distress clan stems from seeing her child's bleeding face after the accident 
 ----------
 AMOUNT: $1,350,000 (Middlesex Co., NJ) 
-CASE: Janiszak v. Extended Stay, et al., 2014 NJ Jury Verdicts Review Le 234 (Aug. 13, 2014) 
+CASE: Janiszak v. Extended Stay company, et al., 2014 NJ Jury Verdicts Review Le 234 (Aug. 13, 2014) 
 CASE NUMBER: MID-L-4051-11 
 JUDGE: Phillip Paley 
 EXPERTS: Not published 
@@ -19980,7 +19962,7 @@ EXPERTS: Lloyd Abdoo, Carrollton, KY for the plaintiff; Kenneth Free, CA for the
 ATTORNEYS: Brent Travelsted, Hughes & Coleman, Bowling Green, KY for the plaintiff: Benjamin L. Riddle and Robert T. Watson, McBrayer McGinnis Leslie & Kirkland Louisville, KY for defendant Ramada Inn, Beth A. Lochmiller. Coleman Lochmiller & Bond, Elizabethtown, KY for defendant Butrum 
 INJURED PARTY: Three and a half year old boy 
 EVENT: The plaintiff fell out of the second floor window of the defendant hotel while attempting to get to the hotel's swimming pool. The plaintiff brought an action against the defendant hotel and his grandmother, who was in the hotel room With him at the time of the accident 
-SPECIFIC INJURY: Fractured femur"in ! 
+SPECIFIC INJURY: Fractured femur
 PERTINENT INFORMATION: The jury found the defendant hotel solely at fault and rejected the negligent supervision claim against the grandmother. The 
 ----------
 AMOUNT: $5,000,000 (Kings Co., NY). 
@@ -20052,7 +20034,7 @@ EXPERTS: Not published
 ATTORNEYS: Kerry M. Guidry of The Guidry Law Firm, Houston, TX for the plaintiff; Paul Culpepper of The Culpepper Law Firm, Houston, TX for the 
 INJURED PARTY: Male 
 EVENT: The defendant's dog attacked the plaintiff as he was walking by the defendant's home, 
-SPECIFIC INJURY: Broken right femuri 
+SPECIFIC INJURY: Broken right femur
 PERTINENT INFORMATION: The award included past medical damages of $37.548.50 past physical pain and suffering of $50,000, past mental anguish of $60,000 and physical impairment of $10,000, plus $14,588 for pre-judgment interest and $365.00 for taxable cost 
 ----------
 AMOUNT: $3,500,000 (Newport News Co., VA) . 
